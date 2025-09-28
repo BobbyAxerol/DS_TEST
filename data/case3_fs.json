@@ -1,0 +1,3602 @@
+[
+  {
+    "OrganCode": "AAA",
+    "YearReport": 2022,
+    "LengthReport": 1,
+    "PublicDate": "2022-04-26",
+    "Revenue": 4027684398467.0,
+    "NetIncome": 96487927146.0
+  },
+  {
+    "OrganCode": "AAA",
+    "YearReport": 2022,
+    "LengthReport": 2,
+    "PublicDate": "2022-08-29",
+    "Revenue": 4574860188172.0,
+    "NetIncome": 93207283708.0
+  },
+  {
+    "OrganCode": "AAA",
+    "YearReport": 2022,
+    "LengthReport": 3,
+    "PublicDate": "2022-10-28",
+    "Revenue": 3280334653921.0,
+    "NetIncome": 76617432221.0
+  },
+  {
+    "OrganCode": "AAA",
+    "YearReport": 2022,
+    "LengthReport": 4,
+    "PublicDate": "2023-01-30",
+    "Revenue": 3406559334287.0,
+    "NetIncome": -152754105708.0
+  },
+  {
+    "OrganCode": "AAA",
+    "YearReport": 2023,
+    "LengthReport": 1,
+    "PublicDate": "2023-04-27",
+    "Revenue": 3616712919453.0,
+    "NetIncome": 63797079882.0
+  },
+  {
+    "OrganCode": "AAA",
+    "YearReport": 2023,
+    "LengthReport": 2,
+    "PublicDate": "2023-08-29",
+    "Revenue": 2791313326349.0,
+    "NetIncome": 49869506718.0
+  },
+  {
+    "OrganCode": "AAA",
+    "YearReport": 2023,
+    "LengthReport": 3,
+    "PublicDate": "2023-10-30",
+    "Revenue": 3529078894690.0,
+    "NetIncome": 103547458096.0
+  },
+  {
+    "OrganCode": "AAA",
+    "YearReport": 2023,
+    "LengthReport": 4,
+    "PublicDate": "2024-01-29",
+    "Revenue": 2684578751775.0,
+    "NetIncome": 92182533364.0
+  },
+  {
+    "OrganCode": "AAA",
+    "YearReport": 2024,
+    "LengthReport": 1,
+    "PublicDate": "2024-04-26",
+    "Revenue": 2963831327623.0,
+    "NetIncome": 143894164439.0
+  },
+  {
+    "OrganCode": "AAA",
+    "YearReport": 2024,
+    "LengthReport": 2,
+    "PublicDate": "2024-08-30",
+    "Revenue": 2782480085532.0,
+    "NetIncome": 137914106171.0
+  },
+  {
+    "OrganCode": "AAA",
+    "YearReport": 2024,
+    "LengthReport": 3,
+    "PublicDate": "2024-10-29",
+    "Revenue": 3193399535332.0,
+    "NetIncome": -25701897803.0
+  },
+  {
+    "OrganCode": "AAA",
+    "YearReport": 2024,
+    "LengthReport": 4,
+    "PublicDate": "2025-03-31",
+    "Revenue": 3842519612561.0,
+    "NetIncome": 63675467924.0
+  },
+  {
+    "OrganCode": "AAA",
+    "YearReport": 2025,
+    "LengthReport": 1,
+    "PublicDate": "2025-04-29",
+    "Revenue": 3856408101891.0,
+    "NetIncome": 55512420841.0
+  },
+  {
+    "OrganCode": "AAM",
+    "YearReport": 2022,
+    "LengthReport": 1,
+    "PublicDate": "2022-04-18",
+    "Revenue": 55737417046.0,
+    "NetIncome": 2089507650.0
+  },
+  {
+    "OrganCode": "AAM",
+    "YearReport": 2022,
+    "LengthReport": 2,
+    "PublicDate": "2022-08-11",
+    "Revenue": 67512523100.0,
+    "NetIncome": 8823000885.0
+  },
+  {
+    "OrganCode": "AAM",
+    "YearReport": 2022,
+    "LengthReport": 3,
+    "PublicDate": "2022-10-13",
+    "Revenue": 46360502013.0,
+    "NetIncome": 2654745962.0
+  },
+  {
+    "OrganCode": "AAM",
+    "YearReport": 2022,
+    "LengthReport": 4,
+    "PublicDate": "2023-01-11",
+    "Revenue": 42397395390.0,
+    "NetIncome": 3332501837.0
+  },
+  {
+    "OrganCode": "AAM",
+    "YearReport": 2023,
+    "LengthReport": 1,
+    "PublicDate": "2023-04-17",
+    "Revenue": 30322916548.0,
+    "NetIncome": 1233268260.0
+  },
+  {
+    "OrganCode": "AAM",
+    "YearReport": 2023,
+    "LengthReport": 2,
+    "PublicDate": "2023-08-09",
+    "Revenue": 40458798621.0,
+    "NetIncome": 863924041.0
+  },
+  {
+    "OrganCode": "AAM",
+    "YearReport": 2023,
+    "LengthReport": 3,
+    "PublicDate": "2023-10-14",
+    "Revenue": 28192341773.0,
+    "NetIncome": -1013131691.0
+  },
+  {
+    "OrganCode": "AAM",
+    "YearReport": 2023,
+    "LengthReport": 4,
+    "PublicDate": "2024-01-11",
+    "Revenue": 37789285456.0,
+    "NetIncome": -380753725.0
+  },
+  {
+    "OrganCode": "AAM",
+    "YearReport": 2024,
+    "LengthReport": 1,
+    "PublicDate": "2024-04-15",
+    "Revenue": 34565421958.0,
+    "NetIncome": -2071987027.0
+  },
+  {
+    "OrganCode": "AAM",
+    "YearReport": 2024,
+    "LengthReport": 2,
+    "PublicDate": "2024-08-05",
+    "Revenue": 34000786456.0,
+    "NetIncome": -1615877371.0
+  },
+  {
+    "OrganCode": "AAM",
+    "YearReport": 2024,
+    "LengthReport": 3,
+    "PublicDate": "2024-10-17",
+    "Revenue": 49775079174.0,
+    "NetIncome": -1272980613.0
+  },
+  {
+    "OrganCode": "AAM",
+    "YearReport": 2024,
+    "LengthReport": 4,
+    "PublicDate": "2025-02-27",
+    "Revenue": 35142056786.0,
+    "NetIncome": -1334838721.0
+  },
+  {
+    "OrganCode": "AAM",
+    "YearReport": 2025,
+    "LengthReport": 1,
+    "PublicDate": "2025-04-15",
+    "Revenue": 54375428180.0,
+    "NetIncome": 1208511116.0
+  },
+  {
+    "OrganCode": "AAM",
+    "YearReport": 2025,
+    "LengthReport": 2,
+    "PublicDate": "2025-07-17",
+    "Revenue": 64320760366.0,
+    "NetIncome": 1128258987.0
+  },
+  {
+    "OrganCode": "AAT",
+    "YearReport": 2022,
+    "LengthReport": 1,
+    "PublicDate": "2022-04-20",
+    "Revenue": 114596183383.0,
+    "NetIncome": 21407935.0
+  },
+  {
+    "OrganCode": "AAT",
+    "YearReport": 2022,
+    "LengthReport": 2,
+    "PublicDate": "2022-08-05",
+    "Revenue": 459585336034.0,
+    "NetIncome": 88324143919.0
+  },
+  {
+    "OrganCode": "AAT",
+    "YearReport": 2022,
+    "LengthReport": 3,
+    "PublicDate": "2022-11-08",
+    "Revenue": 118372033792.0,
+    "NetIncome": 610784187.0
+  },
+  {
+    "OrganCode": "AAT",
+    "YearReport": 2022,
+    "LengthReport": 4,
+    "PublicDate": "2023-01-17",
+    "Revenue": 269072255903.0,
+    "NetIncome": 1369341229.0
+  },
+  {
+    "OrganCode": "AAT",
+    "YearReport": 2023,
+    "LengthReport": 1,
+    "PublicDate": "2023-04-25",
+    "Revenue": 126024594157.0,
+    "NetIncome": 1465256966.0
+  },
+  {
+    "OrganCode": "AAT",
+    "YearReport": 2023,
+    "LengthReport": 2,
+    "PublicDate": "2023-08-20",
+    "Revenue": 161573684734.0,
+    "NetIncome": -151715086.0
+  },
+  {
+    "OrganCode": "AAT",
+    "YearReport": 2023,
+    "LengthReport": 3,
+    "PublicDate": "2023-10-20",
+    "Revenue": 80077364025.0,
+    "NetIncome": 654592502.0
+  },
+  {
+    "OrganCode": "AAT",
+    "YearReport": 2023,
+    "LengthReport": 4,
+    "PublicDate": "2024-01-21",
+    "Revenue": 231678897404.0,
+    "NetIncome": 9745595398.0
+  },
+  {
+    "OrganCode": "AAT",
+    "YearReport": 2024,
+    "LengthReport": 1,
+    "PublicDate": "2024-04-20",
+    "Revenue": 204683899039.0,
+    "NetIncome": 2124587103.0
+  },
+  {
+    "OrganCode": "AAT",
+    "YearReport": 2024,
+    "LengthReport": 2,
+    "PublicDate": "2024-08-15",
+    "Revenue": 179718744794.0,
+    "NetIncome": 1384750361.0
+  },
+  {
+    "OrganCode": "AAT",
+    "YearReport": 2024,
+    "LengthReport": 3,
+    "PublicDate": "2024-10-19",
+    "Revenue": 65332021050.0,
+    "NetIncome": 2383114722.0
+  },
+  {
+    "OrganCode": "AAT",
+    "YearReport": 2024,
+    "LengthReport": 4,
+    "PublicDate": "2025-04-01",
+    "Revenue": 133277166354.0,
+    "NetIncome": -17187180407.0
+  },
+  {
+    "OrganCode": "AAT",
+    "YearReport": 2025,
+    "LengthReport": 1,
+    "PublicDate": "2025-04-29",
+    "Revenue": 207268038521.0,
+    "NetIncome": 9477711905.0
+  },
+  {
+    "OrganCode": "ABR",
+    "YearReport": 2022,
+    "LengthReport": 1,
+    "PublicDate": "2022-04-20",
+    "Revenue": 23560111457.0,
+    "NetIncome": 5782415933.0
+  },
+  {
+    "OrganCode": "ABR",
+    "YearReport": 2022,
+    "LengthReport": 2,
+    "PublicDate": "2022-08-26",
+    "Revenue": 24184516605.0,
+    "NetIncome": 5589728700.0
+  },
+  {
+    "OrganCode": "ABR",
+    "YearReport": 2022,
+    "LengthReport": 3,
+    "PublicDate": "2022-10-27",
+    "Revenue": 27746843402.0,
+    "NetIncome": 8581208557.0
+  },
+  {
+    "OrganCode": "ABR",
+    "YearReport": 2022,
+    "LengthReport": 4,
+    "PublicDate": "2023-01-17",
+    "Revenue": 28715704174.0,
+    "NetIncome": 9120172089.0
+  },
+  {
+    "OrganCode": "ABR",
+    "YearReport": 2023,
+    "LengthReport": 1,
+    "PublicDate": "2023-04-18",
+    "Revenue": 28049829996.0,
+    "NetIncome": 9039550500.0
+  },
+  {
+    "OrganCode": "ABR",
+    "YearReport": 2023,
+    "LengthReport": 2,
+    "PublicDate": "2023-08-16",
+    "Revenue": 13052478642.0,
+    "NetIncome": 15351781040.0
+  },
+  {
+    "OrganCode": "ABR",
+    "YearReport": 2023,
+    "LengthReport": 3,
+    "PublicDate": "2023-10-25",
+    "Revenue": 6350132918.0,
+    "NetIncome": 5753276365.0
+  },
+  {
+    "OrganCode": "ABR",
+    "YearReport": 2023,
+    "LengthReport": 4,
+    "PublicDate": "2024-01-24",
+    "Revenue": 16483603007.0,
+    "NetIncome": 11122089.0
+  },
+  {
+    "OrganCode": "ABR",
+    "YearReport": 2024,
+    "LengthReport": 1,
+    "PublicDate": "2024-04-22",
+    "Revenue": 16478251145.0,
+    "NetIncome": 4769015353.0
+  },
+  {
+    "OrganCode": "ABR",
+    "YearReport": 2024,
+    "LengthReport": 2,
+    "PublicDate": "2024-08-16",
+    "Revenue": -4044824828.0,
+    "NetIncome": 5469636513.0
+  },
+  {
+    "OrganCode": "ABR",
+    "YearReport": 2024,
+    "LengthReport": 3,
+    "PublicDate": "2024-10-29",
+    "Revenue": 6356015314.0,
+    "NetIncome": 3094015192.0
+  },
+  {
+    "OrganCode": "ABR",
+    "YearReport": 2024,
+    "LengthReport": 4,
+    "PublicDate": "2025-03-25",
+    "Revenue": 6106913728.0,
+    "NetIncome": 6405236123.0
+  },
+  {
+    "OrganCode": "ABR",
+    "YearReport": 2025,
+    "LengthReport": 1,
+    "PublicDate": "2025-04-23",
+    "Revenue": 6365061149.0,
+    "NetIncome": 3676868740.0
+  },
+  {
+    "OrganCode": "ABR",
+    "YearReport": 2025,
+    "LengthReport": 2,
+    "PublicDate": "2025-07-23",
+    "Revenue": 6260496681.0,
+    "NetIncome": 3321543329.0
+  },
+  {
+    "OrganCode": "ABS",
+    "YearReport": 2022,
+    "LengthReport": 1,
+    "PublicDate": "2022-04-21",
+    "Revenue": 283199336267.0,
+    "NetIncome": 3520669423.0
+  },
+  {
+    "OrganCode": "ABS",
+    "YearReport": 2022,
+    "LengthReport": 2,
+    "PublicDate": "2022-08-17",
+    "Revenue": 500130884887.0,
+    "NetIncome": 8512740075.0
+  },
+  {
+    "OrganCode": "ABS",
+    "YearReport": 2022,
+    "LengthReport": 3,
+    "PublicDate": "2022-10-19",
+    "Revenue": 165335393301.0,
+    "NetIncome": 5454349918.0
+  },
+  {
+    "OrganCode": "ABS",
+    "YearReport": 2022,
+    "LengthReport": 4,
+    "PublicDate": "2023-01-20",
+    "Revenue": 656670816161.0,
+    "NetIncome": 9789471201.0
+  },
+  {
+    "OrganCode": "ABS",
+    "YearReport": 2023,
+    "LengthReport": 1,
+    "PublicDate": "2023-04-28",
+    "Revenue": 66704017409.0,
+    "NetIncome": 9760066983.0
+  },
+  {
+    "OrganCode": "ABS",
+    "YearReport": 2023,
+    "LengthReport": 2,
+    "PublicDate": "2023-08-24",
+    "Revenue": 567641603215.0,
+    "NetIncome": 13859266762.0
+  },
+  {
+    "OrganCode": "ABS",
+    "YearReport": 2023,
+    "LengthReport": 3,
+    "PublicDate": "2023-10-20",
+    "Revenue": 140872712119.0,
+    "NetIncome": 1185684460.0
+  },
+  {
+    "OrganCode": "ABS",
+    "YearReport": 2023,
+    "LengthReport": 4,
+    "PublicDate": "2024-01-19",
+    "Revenue": 250004182969.0,
+    "NetIncome": -16518008534.0
+  },
+  {
+    "OrganCode": "ABS",
+    "YearReport": 2024,
+    "LengthReport": 1,
+    "PublicDate": "2024-04-19",
+    "Revenue": 35974612465.0,
+    "NetIncome": 3460566330.0
+  },
+  {
+    "OrganCode": "ABS",
+    "YearReport": 2024,
+    "LengthReport": 2,
+    "PublicDate": "2024-09-09",
+    "Revenue": 172571741971.0,
+    "NetIncome": 3388473406.0
+  },
+  {
+    "OrganCode": "ABS",
+    "YearReport": 2024,
+    "LengthReport": 3,
+    "PublicDate": "2024-10-19",
+    "Revenue": 101023376333.0,
+    "NetIncome": 259712297.0
+  },
+  {
+    "OrganCode": "ABS",
+    "YearReport": 2024,
+    "LengthReport": 4,
+    "PublicDate": "2025-01-21",
+    "Revenue": 86571126645.0,
+    "NetIncome": -4549350892.0
+  },
+  {
+    "OrganCode": "ABS",
+    "YearReport": 2025,
+    "LengthReport": 1,
+    "PublicDate": "2025-04-22",
+    "Revenue": 65838104122.0,
+    "NetIncome": -1702820627.0
+  },
+  {
+    "OrganCode": "ABS",
+    "YearReport": 2025,
+    "LengthReport": 2,
+    "PublicDate": "2025-07-22",
+    "Revenue": 35255635011.0,
+    "NetIncome": -269735483844.0
+  },
+  {
+    "OrganCode": "ABT",
+    "YearReport": 2022,
+    "LengthReport": 1,
+    "PublicDate": "2022-05-04",
+    "Revenue": 133382960025.0,
+    "NetIncome": 7676116864.0
+  },
+  {
+    "OrganCode": "ABT",
+    "YearReport": 2022,
+    "LengthReport": 2,
+    "PublicDate": "2022-08-24",
+    "Revenue": 178262077238.0,
+    "NetIncome": 31811168427.0
+  },
+  {
+    "OrganCode": "ABT",
+    "YearReport": 2022,
+    "LengthReport": 3,
+    "PublicDate": "2022-10-19",
+    "Revenue": 160924898313.0,
+    "NetIncome": 12257144450.0
+  },
+  {
+    "OrganCode": "ABT",
+    "YearReport": 2022,
+    "LengthReport": 4,
+    "PublicDate": "2023-01-18",
+    "Revenue": 144069183963.0,
+    "NetIncome": 12544671492.0
+  },
+  {
+    "OrganCode": "ABT",
+    "YearReport": 2023,
+    "LengthReport": 1,
+    "PublicDate": "2023-04-19",
+    "Revenue": 123913288383.0,
+    "NetIncome": 9197198851.0
+  },
+  {
+    "OrganCode": "ABT",
+    "YearReport": 2023,
+    "LengthReport": 2,
+    "PublicDate": "2023-08-28",
+    "Revenue": 134565097924.0,
+    "NetIncome": 28371306601.0
+  },
+  {
+    "OrganCode": "ABT",
+    "YearReport": 2023,
+    "LengthReport": 3,
+    "PublicDate": "2023-10-19",
+    "Revenue": 134429578404.0,
+    "NetIncome": 13958805459.0
+  },
+  {
+    "OrganCode": "ABT",
+    "YearReport": 2023,
+    "LengthReport": 4,
+    "PublicDate": "2024-01-21",
+    "Revenue": 139756179674.0,
+    "NetIncome": 12344283070.0
+  },
+  {
+    "OrganCode": "ABT",
+    "YearReport": 2024,
+    "LengthReport": 1,
+    "PublicDate": "2024-04-22",
+    "Revenue": 121866077150.0,
+    "NetIncome": 11171311500.0
+  },
+  {
+    "OrganCode": "ABT",
+    "YearReport": 2024,
+    "LengthReport": 2,
+    "PublicDate": "2024-09-04",
+    "Revenue": 158672545091.0,
+    "NetIncome": 33723859148.0
+  },
+  {
+    "OrganCode": "ABT",
+    "YearReport": 2024,
+    "LengthReport": 3,
+    "PublicDate": "2024-10-23",
+    "Revenue": 151758000405.0,
+    "NetIncome": 18494999690.0
+  },
+  {
+    "OrganCode": "ABT",
+    "YearReport": 2024,
+    "LengthReport": 4,
+    "PublicDate": "2025-03-27",
+    "Revenue": 151194400776.0,
+    "NetIncome": 38098722619.0
+  },
+  {
+    "OrganCode": "ABT",
+    "YearReport": 2025,
+    "LengthReport": 1,
+    "PublicDate": "2025-04-21",
+    "Revenue": 163767610564.0,
+    "NetIncome": 22142257722.0
+  },
+  {
+    "OrganCode": "ACC",
+    "YearReport": 2022,
+    "LengthReport": 1,
+    "PublicDate": "2022-04-29",
+    "Revenue": 147390678673.0,
+    "NetIncome": 10310011159.0
+  },
+  {
+    "OrganCode": "ACC",
+    "YearReport": 2022,
+    "LengthReport": 2,
+    "PublicDate": "2022-08-29",
+    "Revenue": 130795872314.0,
+    "NetIncome": 27369519242.0
+  },
+  {
+    "OrganCode": "ACC",
+    "YearReport": 2022,
+    "LengthReport": 3,
+    "PublicDate": "2022-10-30",
+    "Revenue": 177343673156.0,
+    "NetIncome": 17757330230.0
+  },
+  {
+    "OrganCode": "ACC",
+    "YearReport": 2022,
+    "LengthReport": 4,
+    "PublicDate": "2023-01-30",
+    "Revenue": 186703346178.0,
+    "NetIncome": 26228619454.0
+  },
+  {
+    "OrganCode": "ACC",
+    "YearReport": 2023,
+    "LengthReport": 1,
+    "PublicDate": "2023-04-29",
+    "Revenue": 112754042359.0,
+    "NetIncome": 9926930255.0
+  },
+  {
+    "OrganCode": "ACC",
+    "YearReport": 2023,
+    "LengthReport": 2,
+    "PublicDate": "2023-08-25",
+    "Revenue": 124631912581.0,
+    "NetIncome": 9001590341.0
+  },
+  {
+    "OrganCode": "ACC",
+    "YearReport": 2023,
+    "LengthReport": 3,
+    "PublicDate": "2023-10-27",
+    "Revenue": 170610386768.0,
+    "NetIncome": 23951280590.0
+  },
+  {
+    "OrganCode": "ACC",
+    "YearReport": 2023,
+    "LengthReport": 4,
+    "PublicDate": "2024-01-29",
+    "Revenue": 243594095111.0,
+    "NetIncome": 29600772417.0
+  },
+  {
+    "OrganCode": "ACC",
+    "YearReport": 2024,
+    "LengthReport": 1,
+    "PublicDate": "2024-04-30",
+    "Revenue": 111374088456.0,
+    "NetIncome": 10309053203.0
+  },
+  {
+    "OrganCode": "ACC",
+    "YearReport": 2024,
+    "LengthReport": 2,
+    "PublicDate": "2024-08-30",
+    "Revenue": 143915267320.0,
+    "NetIncome": 7496789100.0
+  },
+  {
+    "OrganCode": "ACC",
+    "YearReport": 2024,
+    "LengthReport": 3,
+    "PublicDate": "2024-10-30",
+    "Revenue": 178278200430.0,
+    "NetIncome": 19900998457.0
+  },
+  {
+    "OrganCode": "ACC",
+    "YearReport": 2024,
+    "LengthReport": 4,
+    "PublicDate": "2025-04-02",
+    "Revenue": 266456354306.0,
+    "NetIncome": 14804674269.0
+  },
+  {
+    "OrganCode": "ACC",
+    "YearReport": 2025,
+    "LengthReport": 1,
+    "PublicDate": "2025-05-05",
+    "Revenue": 130281092225.0,
+    "NetIncome": 9155353346.0
+  },
+  {
+    "OrganCode": "ACL",
+    "YearReport": 2022,
+    "LengthReport": 1,
+    "PublicDate": "2022-04-16",
+    "Revenue": 325352470770.0,
+    "NetIncome": 62637839904.0
+  },
+  {
+    "OrganCode": "ACL",
+    "YearReport": 2022,
+    "LengthReport": 2,
+    "PublicDate": "2022-08-31",
+    "Revenue": 253085221369.0,
+    "NetIncome": 33608134448.0
+  },
+  {
+    "OrganCode": "ACL",
+    "YearReport": 2022,
+    "LengthReport": 3,
+    "PublicDate": "2022-10-27",
+    "Revenue": 323548659087.0,
+    "NetIncome": 18106971349.0
+  },
+  {
+    "OrganCode": "ACL",
+    "YearReport": 2022,
+    "LengthReport": 4,
+    "PublicDate": "2023-01-18",
+    "Revenue": 265004879610.0,
+    "NetIncome": 4228129306.0
+  },
+  {
+    "OrganCode": "ACL",
+    "YearReport": 2023,
+    "LengthReport": 1,
+    "PublicDate": "2023-04-26",
+    "Revenue": 139710621539.0,
+    "NetIncome": 1895821523.0
+  },
+  {
+    "OrganCode": "ACL",
+    "YearReport": 2023,
+    "LengthReport": 2,
+    "PublicDate": "2023-08-28",
+    "Revenue": 224514081505.0,
+    "NetIncome": 4129034351.0
+  },
+  {
+    "OrganCode": "ACL",
+    "YearReport": 2023,
+    "LengthReport": 3,
+    "PublicDate": "2023-10-27",
+    "Revenue": 338583764027.0,
+    "NetIncome": 4797530154.0
+  },
+  {
+    "OrganCode": "ACL",
+    "YearReport": 2023,
+    "LengthReport": 4,
+    "PublicDate": "2024-01-29",
+    "Revenue": 413949047972.0,
+    "NetIncome": 1306038777.0
+  },
+  {
+    "OrganCode": "ACL",
+    "YearReport": 2024,
+    "LengthReport": 1,
+    "PublicDate": "2024-04-19",
+    "Revenue": 316083402526.0,
+    "NetIncome": 2274571084.0
+  },
+  {
+    "OrganCode": "ACL",
+    "YearReport": 2024,
+    "LengthReport": 2,
+    "PublicDate": "2024-08-29",
+    "Revenue": 561952923923.0,
+    "NetIncome": 2780676755.0
+  },
+  {
+    "OrganCode": "ACL",
+    "YearReport": 2024,
+    "LengthReport": 3,
+    "PublicDate": "2024-10-29",
+    "Revenue": 415244211842.0,
+    "NetIncome": 3353366474.0
+  },
+  {
+    "OrganCode": "ACL",
+    "YearReport": 2024,
+    "LengthReport": 4,
+    "PublicDate": "2025-04-03",
+    "Revenue": 455454523780.0,
+    "NetIncome": 2356628868.0
+  },
+  {
+    "OrganCode": "ACL",
+    "YearReport": 2025,
+    "LengthReport": 1,
+    "PublicDate": "2025-04-28",
+    "Revenue": 418239076318.0,
+    "NetIncome": 2590594007.0
+  },
+  {
+    "OrganCode": "ADP",
+    "YearReport": 2022,
+    "LengthReport": 1,
+    "PublicDate": "2022-04-18",
+    "Revenue": 147345200124.0,
+    "NetIncome": 8802653068.0
+  },
+  {
+    "OrganCode": "ADP",
+    "YearReport": 2022,
+    "LengthReport": 2,
+    "PublicDate": "2022-07-26",
+    "Revenue": 149068857491.0,
+    "NetIncome": 9933045797.0
+  },
+  {
+    "OrganCode": "ADP",
+    "YearReport": 2022,
+    "LengthReport": 3,
+    "PublicDate": "2022-10-18",
+    "Revenue": 134934209364.0,
+    "NetIncome": 9234399484.0
+  },
+  {
+    "OrganCode": "ADP",
+    "YearReport": 2022,
+    "LengthReport": 4,
+    "PublicDate": "2023-01-18",
+    "Revenue": 156041957957.0,
+    "NetIncome": 12421060904.0
+  },
+  {
+    "OrganCode": "ADP",
+    "YearReport": 2023,
+    "LengthReport": 1,
+    "PublicDate": "2023-04-18",
+    "Revenue": 108391561193.0,
+    "NetIncome": 9267021675.0
+  },
+  {
+    "OrganCode": "ADP",
+    "YearReport": 2023,
+    "LengthReport": 2,
+    "PublicDate": "2023-08-03",
+    "Revenue": 87559175340.0,
+    "NetIncome": 8269428828.0
+  },
+  {
+    "OrganCode": "ADP",
+    "YearReport": 2023,
+    "LengthReport": 3,
+    "PublicDate": "2023-10-20",
+    "Revenue": 151974281911.0,
+    "NetIncome": 19400179088.0
+  },
+  {
+    "OrganCode": "ADP",
+    "YearReport": 2023,
+    "LengthReport": 4,
+    "PublicDate": "2024-01-19",
+    "Revenue": 168286878532.0,
+    "NetIncome": 21948856411.0
+  },
+  {
+    "OrganCode": "ADP",
+    "YearReport": 2024,
+    "LengthReport": 1,
+    "PublicDate": "2024-04-18",
+    "Revenue": 166343628268.0,
+    "NetIncome": 22523954117.0
+  },
+  {
+    "OrganCode": "ADP",
+    "YearReport": 2024,
+    "LengthReport": 2,
+    "PublicDate": "2024-07-30",
+    "Revenue": 245427056333.0,
+    "NetIncome": 27732271023.0
+  },
+  {
+    "OrganCode": "ADP",
+    "YearReport": 2024,
+    "LengthReport": 3,
+    "PublicDate": "2024-10-19",
+    "Revenue": 214528322649.0,
+    "NetIncome": 18423800383.0
+  },
+  {
+    "OrganCode": "ADP",
+    "YearReport": 2024,
+    "LengthReport": 4,
+    "PublicDate": "2025-03-21",
+    "Revenue": 191555691169.0,
+    "NetIncome": 16633957477.0
+  },
+  {
+    "OrganCode": "ADP",
+    "YearReport": 2025,
+    "LengthReport": 1,
+    "PublicDate": "2025-04-21",
+    "Revenue": 200827697629.0,
+    "NetIncome": 22038189566.0
+  },
+  {
+    "OrganCode": "ADP",
+    "YearReport": 2025,
+    "LengthReport": 2,
+    "PublicDate": "2025-07-22",
+    "Revenue": 175668167694.0,
+    "NetIncome": 22597878540.0
+  },
+  {
+    "OrganCode": "AGRE",
+    "YearReport": 2022,
+    "LengthReport": 1,
+    "PublicDate": "2022-04-25",
+    "Revenue": 562618093011.0,
+    "NetIncome": 3574271667.0
+  },
+  {
+    "OrganCode": "AGRE",
+    "YearReport": 2022,
+    "LengthReport": 2,
+    "PublicDate": "2022-08-29",
+    "Revenue": 2709296031801.0,
+    "NetIncome": 170244268669.0
+  },
+  {
+    "OrganCode": "AGRE",
+    "YearReport": 2022,
+    "LengthReport": 3,
+    "PublicDate": "2022-10-28",
+    "Revenue": 2193926471729.0,
+    "NetIncome": 108605985166.0
+  },
+  {
+    "OrganCode": "AGRE",
+    "YearReport": 2022,
+    "LengthReport": 4,
+    "PublicDate": "2023-01-31",
+    "Revenue": 5501256696224.0,
+    "NetIncome": -102948188517.0
+  },
+  {
+    "OrganCode": "AGRE",
+    "YearReport": 2023,
+    "LengthReport": 1,
+    "PublicDate": "2023-04-27",
+    "Revenue": 189452462862.0,
+    "NetIncome": 12338156554.0
+  },
+  {
+    "OrganCode": "AGRE",
+    "YearReport": 2023,
+    "LengthReport": 2,
+    "PublicDate": "2023-08-29",
+    "Revenue": 1676404387987.0,
+    "NetIncome": 132938818578.0
+  },
+  {
+    "OrganCode": "AGRE",
+    "YearReport": 2023,
+    "LengthReport": 3,
+    "PublicDate": "2023-10-30",
+    "Revenue": 1848623478441.0,
+    "NetIncome": 205801883965.0
+  },
+  {
+    "OrganCode": "AGRE",
+    "YearReport": 2023,
+    "LengthReport": 4,
+    "PublicDate": "2024-01-30",
+    "Revenue": 176566520887.0,
+    "NetIncome": 109305196750.0
+  },
+  {
+    "OrganCode": "AGRE",
+    "YearReport": 2024,
+    "LengthReport": 1,
+    "PublicDate": "2024-04-26",
+    "Revenue": 1312787417097.0,
+    "NetIncome": 214167978290.0
+  },
+  {
+    "OrganCode": "AGRE",
+    "YearReport": 2024,
+    "LengthReport": 2,
+    "PublicDate": "2024-08-30",
+    "Revenue": 169043316241.0,
+    "NetIncome": 1562126973.0
+  },
+  {
+    "OrganCode": "AGRE",
+    "YearReport": 2024,
+    "LengthReport": 3,
+    "PublicDate": "2024-10-25",
+    "Revenue": 268367573759.0,
+    "NetIncome": 24164305618.0
+  },
+  {
+    "OrganCode": "AGRE",
+    "YearReport": 2024,
+    "LengthReport": 4,
+    "PublicDate": "2025-03-31",
+    "Revenue": 163200171412.0,
+    "NetIncome": 21109490783.0
+  },
+  {
+    "OrganCode": "AGRE",
+    "YearReport": 2025,
+    "LengthReport": 1,
+    "PublicDate": "2025-04-29",
+    "Revenue": 191772044951.0,
+    "NetIncome": 8071817110.0
+  },
+  {
+    "OrganCode": "ANCUONGWOOD",
+    "YearReport": 2022,
+    "LengthReport": 1,
+    "PublicDate": "2022-04-27",
+    "Revenue": 856003490100.0,
+    "NetIncome": 119911855719.0
+  },
+  {
+    "OrganCode": "ANCUONGWOOD",
+    "YearReport": 2022,
+    "LengthReport": 2,
+    "PublicDate": "2022-08-16",
+    "Revenue": 1058830652614.0,
+    "NetIncome": 158784215413.0
+  },
+  {
+    "OrganCode": "ANCUONGWOOD",
+    "YearReport": 2022,
+    "LengthReport": 3,
+    "PublicDate": "2022-10-25",
+    "Revenue": 1176318410940.0,
+    "NetIncome": 166244635917.0
+  },
+  {
+    "OrganCode": "ANCUONGWOOD",
+    "YearReport": 2022,
+    "LengthReport": 4,
+    "PublicDate": "2023-01-29",
+    "Revenue": 1384325885169.0,
+    "NetIncome": 170640582285.0
+  },
+  {
+    "OrganCode": "ANCUONGWOOD",
+    "YearReport": 2023,
+    "LengthReport": 1,
+    "PublicDate": "2023-04-24",
+    "Revenue": 679950135851.0,
+    "NetIncome": 36319880020.0
+  },
+  {
+    "OrganCode": "ANCUONGWOOD",
+    "YearReport": 2023,
+    "LengthReport": 2,
+    "PublicDate": "2023-08-17",
+    "Revenue": 968189031537.0,
+    "NetIncome": 108526725550.0
+  },
+  {
+    "OrganCode": "ANCUONGWOOD",
+    "YearReport": 2023,
+    "LengthReport": 3,
+    "PublicDate": "2023-10-27",
+    "Revenue": 962568537992.0,
+    "NetIncome": 105454383311.0
+  },
+  {
+    "OrganCode": "ANCUONGWOOD",
+    "YearReport": 2023,
+    "LengthReport": 4,
+    "PublicDate": "2024-01-29",
+    "Revenue": 1151421546368.0,
+    "NetIncome": 161951967225.0
+  },
+  {
+    "OrganCode": "ANCUONGWOOD",
+    "YearReport": 2024,
+    "LengthReport": 1,
+    "PublicDate": "2024-04-25",
+    "Revenue": 694977577935.0,
+    "NetIncome": 81419524081.0
+  },
+  {
+    "OrganCode": "ANCUONGWOOD",
+    "YearReport": 2024,
+    "LengthReport": 2,
+    "PublicDate": "2024-08-29",
+    "Revenue": 1025855544080.0,
+    "NetIncome": 118128861982.0
+  },
+  {
+    "OrganCode": "ANCUONGWOOD",
+    "YearReport": 2024,
+    "LengthReport": 3,
+    "PublicDate": "2024-10-29",
+    "Revenue": 1043817347876.0,
+    "NetIncome": 130420988660.0
+  },
+  {
+    "OrganCode": "ANCUONGWOOD",
+    "YearReport": 2024,
+    "LengthReport": 4,
+    "PublicDate": "2025-03-31",
+    "Revenue": 1216213551747.0,
+    "NetIncome": 90002611157.0
+  },
+  {
+    "OrganCode": "ANCUONGWOOD",
+    "YearReport": 2025,
+    "LengthReport": 1,
+    "PublicDate": "2025-04-29",
+    "Revenue": 802034366779.0,
+    "NetIncome": 85008966539.0
+  },
+  {
+    "OrganCode": "ANV",
+    "YearReport": 2022,
+    "LengthReport": 1,
+    "PublicDate": "2022-04-28",
+    "Revenue": 1219167721162.0,
+    "NetIncome": 206629951109.0
+  },
+  {
+    "OrganCode": "ANV",
+    "YearReport": 2022,
+    "LengthReport": 2,
+    "PublicDate": "2022-08-30",
+    "Revenue": 1294518111937.0,
+    "NetIncome": 240687503919.0
+  },
+  {
+    "OrganCode": "ANV",
+    "YearReport": 2022,
+    "LengthReport": 3,
+    "PublicDate": "2022-10-23",
+    "Revenue": 1238682074288.0,
+    "NetIncome": 119901744349.0
+  },
+  {
+    "OrganCode": "ANV",
+    "YearReport": 2022,
+    "LengthReport": 4,
+    "PublicDate": "2023-01-19",
+    "Revenue": 1144279133051.0,
+    "NetIncome": 106526034970.0
+  },
+  {
+    "OrganCode": "ANV",
+    "YearReport": 2023,
+    "LengthReport": 1,
+    "PublicDate": "2023-04-20",
+    "Revenue": 1155198386739.0,
+    "NetIncome": 92370665510.0
+  },
+  {
+    "OrganCode": "ANV",
+    "YearReport": 2023,
+    "LengthReport": 2,
+    "PublicDate": "2023-08-29",
+    "Revenue": 1074294133927.0,
+    "NetIncome": -51044261712.0
+  },
+  {
+    "OrganCode": "ANV",
+    "YearReport": 2023,
+    "LengthReport": 3,
+    "PublicDate": "2023-10-24",
+    "Revenue": 1098820894983.0,
+    "NetIncome": 1038991127.0
+  },
+  {
+    "OrganCode": "ANV",
+    "YearReport": 2023,
+    "LengthReport": 4,
+    "PublicDate": "2024-01-25",
+    "Revenue": 1110809217231.0,
+    "NetIncome": -517885834.0
+  },
+  {
+    "OrganCode": "ANV",
+    "YearReport": 2024,
+    "LengthReport": 1,
+    "PublicDate": "2024-04-22",
+    "Revenue": 1016008704124.0,
+    "NetIncome": 16902899308.0
+  },
+  {
+    "OrganCode": "ANV",
+    "YearReport": 2024,
+    "LengthReport": 2,
+    "PublicDate": "2024-08-30",
+    "Revenue": 1193412864585.0,
+    "NetIncome": -2287190579.0
+  },
+  {
+    "OrganCode": "ANV",
+    "YearReport": 2024,
+    "LengthReport": 3,
+    "PublicDate": "2024-10-23",
+    "Revenue": 1341021310612.0,
+    "NetIncome": 27876196893.0
+  },
+  {
+    "OrganCode": "ANV",
+    "YearReport": 2024,
+    "LengthReport": 4,
+    "PublicDate": "2025-03-31",
+    "Revenue": 1360823093592.0,
+    "NetIncome": 5340268025.0
+  },
+  {
+    "OrganCode": "ANV",
+    "YearReport": 2025,
+    "LengthReport": 1,
+    "PublicDate": "2025-04-18",
+    "Revenue": 1106263191785.0,
+    "NetIncome": 132016279601.0
+  },
+  {
+    "OrganCode": "ANV",
+    "YearReport": 2025,
+    "LengthReport": 2,
+    "PublicDate": "2025-07-21",
+    "Revenue": 1726231655961.0,
+    "NetIncome": 332812892370.0
+  },
+  {
+    "OrganCode": "APHOLD",
+    "YearReport": 2022,
+    "LengthReport": 1,
+    "PublicDate": "2022-04-28",
+    "Revenue": 4475357497395.0,
+    "NetIncome": 82689551015.0
+  },
+  {
+    "OrganCode": "APHOLD",
+    "YearReport": 2022,
+    "LengthReport": 2,
+    "PublicDate": "2022-08-29",
+    "Revenue": 5042877326314.0,
+    "NetIncome": 85373152675.0
+  },
+  {
+    "OrganCode": "APHOLD",
+    "YearReport": 2022,
+    "LengthReport": 3,
+    "PublicDate": "2022-11-01",
+    "Revenue": 3807699208975.0,
+    "NetIncome": 51186998494.0
+  },
+  {
+    "OrganCode": "APHOLD",
+    "YearReport": 2022,
+    "LengthReport": 4,
+    "PublicDate": "2023-02-01",
+    "Revenue": 4003198747440.0,
+    "NetIncome": -161834607884.0
+  },
+  {
+    "OrganCode": "APHOLD",
+    "YearReport": 2023,
+    "LengthReport": 1,
+    "PublicDate": "2023-05-08",
+    "Revenue": 4117631870612.0,
+    "NetIncome": 35336182591.0
+  },
+  {
+    "OrganCode": "APHOLD",
+    "YearReport": 2023,
+    "LengthReport": 2,
+    "PublicDate": "2023-08-31",
+    "Revenue": 3245795271914.0,
+    "NetIncome": 9464071757.0
+  },
+  {
+    "OrganCode": "APHOLD",
+    "YearReport": 2023,
+    "LengthReport": 3,
+    "PublicDate": "2023-10-31",
+    "Revenue": 3972262974251.0,
+    "NetIncome": 78598343341.0
+  },
+  {
+    "OrganCode": "APHOLD",
+    "YearReport": 2023,
+    "LengthReport": 4,
+    "PublicDate": "2024-01-29",
+    "Revenue": 3186415717419.0,
+    "NetIncome": 97535525435.0
+  },
+  {
+    "OrganCode": "APHOLD",
+    "YearReport": 2024,
+    "LengthReport": 1,
+    "PublicDate": "2024-04-26",
+    "Revenue": 3388003823777.0,
+    "NetIncome": 132970514448.0
+  },
+  {
+    "OrganCode": "APHOLD",
+    "YearReport": 2024,
+    "LengthReport": 2,
+    "PublicDate": "2024-09-05",
+    "Revenue": 3251992951586.0,
+    "NetIncome": 138105874185.0
+  },
+  {
+    "OrganCode": "APHOLD",
+    "YearReport": 2024,
+    "LengthReport": 3,
+    "PublicDate": "2024-10-29",
+    "Revenue": 3708104440746.0,
+    "NetIncome": -13809793448.0
+  },
+  {
+    "OrganCode": "APHOLD",
+    "YearReport": 2024,
+    "LengthReport": 4,
+    "PublicDate": "2025-04-01",
+    "Revenue": 3844470810350.0,
+    "NetIncome": 52301314572.0
+  },
+  {
+    "OrganCode": "APHOLD",
+    "YearReport": 2025,
+    "LengthReport": 1,
+    "PublicDate": "2025-04-29",
+    "Revenue": 3857935255016.0,
+    "NetIncome": 46708857044.0
+  },
+  {
+    "OrganCode": "ASGC",
+    "YearReport": 2022,
+    "LengthReport": 1,
+    "PublicDate": "2022-05-01",
+    "Revenue": 234193869355.0,
+    "NetIncome": 18819836458.0
+  },
+  {
+    "OrganCode": "ASGC",
+    "YearReport": 2022,
+    "LengthReport": 2,
+    "PublicDate": "2022-08-17",
+    "Revenue": 525984091769.0,
+    "NetIncome": 89333220849.0
+  },
+  {
+    "OrganCode": "ASGC",
+    "YearReport": 2022,
+    "LengthReport": 3,
+    "PublicDate": "2022-10-31",
+    "Revenue": 641906003836.0,
+    "NetIncome": 43678995069.0
+  },
+  {
+    "OrganCode": "ASGC",
+    "YearReport": 2022,
+    "LengthReport": 4,
+    "PublicDate": "2023-01-30",
+    "Revenue": 577425483115.0,
+    "NetIncome": -1568247977.0
+  },
+  {
+    "OrganCode": "ASGC",
+    "YearReport": 2023,
+    "LengthReport": 1,
+    "PublicDate": "2023-04-28",
+    "Revenue": 447673031995.0,
+    "NetIncome": 8094979978.0
+  },
+  {
+    "OrganCode": "ASGC",
+    "YearReport": 2023,
+    "LengthReport": 2,
+    "PublicDate": "2023-08-09",
+    "Revenue": 468965387667.0,
+    "NetIncome": 4762448017.0
+  },
+  {
+    "OrganCode": "ASGC",
+    "YearReport": 2023,
+    "LengthReport": 3,
+    "PublicDate": "2023-10-30",
+    "Revenue": 489717019102.0,
+    "NetIncome": 4005515162.0
+  },
+  {
+    "OrganCode": "ASGC",
+    "YearReport": 2023,
+    "LengthReport": 4,
+    "PublicDate": "2024-01-30",
+    "Revenue": 513495237590.0,
+    "NetIncome": 9409307574.0
+  },
+  {
+    "OrganCode": "ASGC",
+    "YearReport": 2024,
+    "LengthReport": 1,
+    "PublicDate": "2024-04-26",
+    "Revenue": 466769627959.0,
+    "NetIncome": 2011235620.0
+  },
+  {
+    "OrganCode": "ASGC",
+    "YearReport": 2024,
+    "LengthReport": 2,
+    "PublicDate": "2024-08-28",
+    "Revenue": 457172827313.0,
+    "NetIncome": 28962787421.0
+  },
+  {
+    "OrganCode": "ASGC",
+    "YearReport": 2024,
+    "LengthReport": 3,
+    "PublicDate": "2024-10-30",
+    "Revenue": 465399768020.0,
+    "NetIncome": 16112334364.0
+  },
+  {
+    "OrganCode": "ASGC",
+    "YearReport": 2024,
+    "LengthReport": 4,
+    "PublicDate": "2025-03-20",
+    "Revenue": 526191883825.0,
+    "NetIncome": 6398273064.0
+  },
+  {
+    "OrganCode": "ASGC",
+    "YearReport": 2025,
+    "LengthReport": 1,
+    "PublicDate": "2025-04-30",
+    "Revenue": 493732408070.0,
+    "NetIncome": 24256210537.0
+  },
+  {
+    "OrganCode": "ASM",
+    "YearReport": 2022,
+    "LengthReport": 1,
+    "PublicDate": "2022-04-29",
+    "Revenue": 3209514081598.0,
+    "NetIncome": 324088888805.0
+  },
+  {
+    "OrganCode": "ASM",
+    "YearReport": 2022,
+    "LengthReport": 2,
+    "PublicDate": "2022-08-30",
+    "Revenue": 4011440211549.0,
+    "NetIncome": 348772254657.0
+  },
+  {
+    "OrganCode": "ASM",
+    "YearReport": 2022,
+    "LengthReport": 3,
+    "PublicDate": "2022-10-29",
+    "Revenue": 3344065871607.0,
+    "NetIncome": 224751205395.0
+  },
+  {
+    "OrganCode": "ASM",
+    "YearReport": 2022,
+    "LengthReport": 4,
+    "PublicDate": "2023-01-19",
+    "Revenue": 3184201806936.0,
+    "NetIncome": 65687471288.0
+  },
+  {
+    "OrganCode": "ASM",
+    "YearReport": 2023,
+    "LengthReport": 1,
+    "PublicDate": "2023-04-28",
+    "Revenue": 3050414226580.0,
+    "NetIncome": 85894123865.0
+  },
+  {
+    "OrganCode": "ASM",
+    "YearReport": 2023,
+    "LengthReport": 2,
+    "PublicDate": "2023-08-30",
+    "Revenue": 3254809990986.0,
+    "NetIncome": 105282272476.0
+  },
+  {
+    "OrganCode": "ASM",
+    "YearReport": 2023,
+    "LengthReport": 3,
+    "PublicDate": "2023-10-31",
+    "Revenue": 2874551671831.0,
+    "NetIncome": 66441266153.0
+  },
+  {
+    "OrganCode": "ASM",
+    "YearReport": 2023,
+    "LengthReport": 4,
+    "PublicDate": "2024-01-30",
+    "Revenue": 2788705016045.0,
+    "NetIncome": 16476078423.0
+  },
+  {
+    "OrganCode": "ASM",
+    "YearReport": 2024,
+    "LengthReport": 1,
+    "PublicDate": "2024-05-02",
+    "Revenue": 2548539861601.0,
+    "NetIncome": 75555053271.0
+  },
+  {
+    "OrganCode": "ASM",
+    "YearReport": 2024,
+    "LengthReport": 2,
+    "PublicDate": "2024-08-31",
+    "Revenue": 3379052176758.0,
+    "NetIncome": 105975265677.0
+  },
+  {
+    "OrganCode": "ASM",
+    "YearReport": 2024,
+    "LengthReport": 3,
+    "PublicDate": "2024-10-31",
+    "Revenue": 3219264976930.0,
+    "NetIncome": 71218610668.0
+  },
+  {
+    "OrganCode": "ASM",
+    "YearReport": 2024,
+    "LengthReport": 4,
+    "PublicDate": "2025-03-31",
+    "Revenue": 2866260874811.0,
+    "NetIncome": -1762291467.0
+  },
+  {
+    "OrganCode": "ASM",
+    "YearReport": 2025,
+    "LengthReport": 1,
+    "PublicDate": "2025-04-30",
+    "Revenue": 2715104188695.0,
+    "NetIncome": 37902501071.0
+  },
+  {
+    "OrganCode": "ASP",
+    "YearReport": 2022,
+    "LengthReport": 1,
+    "PublicDate": "2022-05-04",
+    "Revenue": 1159399208067.0,
+    "NetIncome": 1110979712.0
+  },
+  {
+    "OrganCode": "ASP",
+    "YearReport": 2022,
+    "LengthReport": 2,
+    "PublicDate": "2022-08-30",
+    "Revenue": 1062453680272.0,
+    "NetIncome": -23806803248.0
+  },
+  {
+    "OrganCode": "ASP",
+    "YearReport": 2022,
+    "LengthReport": 3,
+    "PublicDate": "2022-11-01",
+    "Revenue": 905280088332.0,
+    "NetIncome": -18393884124.0
+  },
+  {
+    "OrganCode": "ASP",
+    "YearReport": 2022,
+    "LengthReport": 4,
+    "PublicDate": "2023-02-02",
+    "Revenue": 955183837805.0,
+    "NetIncome": 54920275769.0
+  },
+  {
+    "OrganCode": "ASP",
+    "YearReport": 2023,
+    "LengthReport": 1,
+    "PublicDate": "2023-04-30",
+    "Revenue": 911094906668.0,
+    "NetIncome": 796902387.0
+  },
+  {
+    "OrganCode": "ASP",
+    "YearReport": 2023,
+    "LengthReport": 2,
+    "PublicDate": "2023-08-29",
+    "Revenue": 792186180941.0,
+    "NetIncome": -720650945.0
+  },
+  {
+    "OrganCode": "ASP",
+    "YearReport": 2023,
+    "LengthReport": 3,
+    "PublicDate": "2023-10-30",
+    "Revenue": 985783380045.0,
+    "NetIncome": -15678232806.0
+  },
+  {
+    "OrganCode": "ASP",
+    "YearReport": 2023,
+    "LengthReport": 4,
+    "PublicDate": "2024-01-31",
+    "Revenue": 1029161196805.0,
+    "NetIncome": 19986507023.0
+  },
+  {
+    "OrganCode": "ASP",
+    "YearReport": 2024,
+    "LengthReport": 1,
+    "PublicDate": "2024-05-02",
+    "Revenue": 930726905147.0,
+    "NetIncome": -7347405964.0
+  },
+  {
+    "OrganCode": "ASP",
+    "YearReport": 2024,
+    "LengthReport": 2,
+    "PublicDate": "2024-10-01",
+    "Revenue": 794630715346.0,
+    "NetIncome": -19548828674.0
+  },
+  {
+    "OrganCode": "ASP",
+    "YearReport": 2024,
+    "LengthReport": 3,
+    "PublicDate": "2024-10-29",
+    "Revenue": 738002858196.0,
+    "NetIncome": 15053623062.0
+  },
+  {
+    "OrganCode": "ASP",
+    "YearReport": 2024,
+    "LengthReport": 4,
+    "PublicDate": "2025-03-31",
+    "Revenue": 843376496018.0,
+    "NetIncome": 16752099513.0
+  },
+  {
+    "OrganCode": "ASP",
+    "YearReport": 2025,
+    "LengthReport": 1,
+    "PublicDate": "2025-05-06",
+    "Revenue": 735204536507.0,
+    "NetIncome": 3527266497.0
+  },
+  {
+    "OrganCode": "BAFVN",
+    "YearReport": 2022,
+    "LengthReport": 1,
+    "PublicDate": "2022-05-05",
+    "Revenue": 1538991776508.0,
+    "NetIncome": 87715579167.0
+  },
+  {
+    "OrganCode": "BAFVN",
+    "YearReport": 2022,
+    "LengthReport": 2,
+    "PublicDate": "2022-08-17",
+    "Revenue": 1445772311774.0,
+    "NetIncome": 40420337184.0
+  },
+  {
+    "OrganCode": "BAFVN",
+    "YearReport": 2022,
+    "LengthReport": 3,
+    "PublicDate": "2022-10-30",
+    "Revenue": 1919646905460.0,
+    "NetIncome": 157999399746.0
+  },
+  {
+    "OrganCode": "BAFVN",
+    "YearReport": 2022,
+    "LengthReport": 4,
+    "PublicDate": "2023-01-31",
+    "Revenue": 2158195605080.0,
+    "NetIncome": 6731361963.0
+  },
+  {
+    "OrganCode": "BAFVN",
+    "YearReport": 2023,
+    "LengthReport": 1,
+    "PublicDate": "2023-04-28",
+    "Revenue": 816539497479.0,
+    "NetIncome": 3906339499.0
+  },
+  {
+    "OrganCode": "BAFVN",
+    "YearReport": 2023,
+    "LengthReport": 2,
+    "PublicDate": "2023-08-29",
+    "Revenue": 1589890592622.0,
+    "NetIncome": 8879014167.0
+  },
+  {
+    "OrganCode": "BAFVN",
+    "YearReport": 2023,
+    "LengthReport": 3,
+    "PublicDate": "2023-10-31",
+    "Revenue": 1218994044211.0,
+    "NetIncome": 40058081203.0
+  },
+  {
+    "OrganCode": "BAFVN",
+    "YearReport": 2023,
+    "LengthReport": 4,
+    "PublicDate": "2024-01-28",
+    "Revenue": 1625012326985.0,
+    "NetIncome": -29458450508.0
+  },
+  {
+    "OrganCode": "BAFVN",
+    "YearReport": 2024,
+    "LengthReport": 1,
+    "PublicDate": "2024-04-25",
+    "Revenue": 1292013483890.0,
+    "NetIncome": 118654545574.0
+  },
+  {
+    "OrganCode": "BAFVN",
+    "YearReport": 2024,
+    "LengthReport": 2,
+    "PublicDate": "2024-08-30",
+    "Revenue": 1321178494029.0,
+    "NetIncome": 35954280962.0
+  },
+  {
+    "OrganCode": "BAFVN",
+    "YearReport": 2024,
+    "LengthReport": 3,
+    "PublicDate": "2024-10-30",
+    "Revenue": 1313762843295.0,
+    "NetIncome": 60012188130.0
+  },
+  {
+    "OrganCode": "BAFVN",
+    "YearReport": 2024,
+    "LengthReport": 4,
+    "PublicDate": "2025-03-31",
+    "Revenue": 1713730913054.0,
+    "NetIncome": 104315299382.0
+  },
+  {
+    "OrganCode": "BAFVN",
+    "YearReport": 2025,
+    "LengthReport": 1,
+    "PublicDate": "2025-04-29",
+    "Revenue": 1123604043904.0,
+    "NetIncome": 133546119276.0
+  },
+  {
+    "OrganCode": "BBC",
+    "YearReport": 2022,
+    "LengthReport": 1,
+    "PublicDate": "2022-04-25",
+    "Revenue": 301774087087.0,
+    "NetIncome": 131431591020.0
+  },
+  {
+    "OrganCode": "BBC",
+    "YearReport": 2022,
+    "LengthReport": 2,
+    "PublicDate": "2022-08-30",
+    "Revenue": 243043501065.0,
+    "NetIncome": -1950590402.0
+  },
+  {
+    "OrganCode": "BBC",
+    "YearReport": 2022,
+    "LengthReport": 3,
+    "PublicDate": "2022-10-31",
+    "Revenue": 398961222593.0,
+    "NetIncome": 22006772677.0
+  },
+  {
+    "OrganCode": "BBC",
+    "YearReport": 2022,
+    "LengthReport": 4,
+    "PublicDate": "2023-01-30",
+    "Revenue": 672044503357.0,
+    "NetIncome": 37612490412.0
+  },
+  {
+    "OrganCode": "BBC",
+    "YearReport": 2023,
+    "LengthReport": 1,
+    "PublicDate": "2023-04-28",
+    "Revenue": 236725836350.0,
+    "NetIncome": 3002302975.0
+  },
+  {
+    "OrganCode": "BBC",
+    "YearReport": 2023,
+    "LengthReport": 2,
+    "PublicDate": "2023-08-30",
+    "Revenue": 210130300650.0,
+    "NetIncome": -142606283.0
+  },
+  {
+    "OrganCode": "BBC",
+    "YearReport": 2023,
+    "LengthReport": 3,
+    "PublicDate": "2023-10-26",
+    "Revenue": 427643732369.0,
+    "NetIncome": 23366826560.0
+  },
+  {
+    "OrganCode": "BBC",
+    "YearReport": 2023,
+    "LengthReport": 4,
+    "PublicDate": "2024-01-29",
+    "Revenue": 613190087867.0,
+    "NetIncome": 72706014573.0
+  },
+  {
+    "OrganCode": "BBC",
+    "YearReport": 2024,
+    "LengthReport": 1,
+    "PublicDate": "2024-04-26",
+    "Revenue": 359619370244.0,
+    "NetIncome": 17417699853.0
+  },
+  {
+    "OrganCode": "BBC",
+    "YearReport": 2024,
+    "LengthReport": 2,
+    "PublicDate": "2024-08-30",
+    "Revenue": 259741099155.0,
+    "NetIncome": 8946252396.0
+  },
+  {
+    "OrganCode": "BBC",
+    "YearReport": 2024,
+    "LengthReport": 3,
+    "PublicDate": "2024-10-29",
+    "Revenue": 479515599201.0,
+    "NetIncome": 34073413417.0
+  },
+  {
+    "OrganCode": "BBC",
+    "YearReport": 2024,
+    "LengthReport": 4,
+    "PublicDate": "2025-03-31",
+    "Revenue": 679423835162.0,
+    "NetIncome": 55739285253.0
+  },
+  {
+    "OrganCode": "BBC",
+    "YearReport": 2025,
+    "LengthReport": 1,
+    "PublicDate": "2025-04-29",
+    "Revenue": 346495540928.0,
+    "NetIncome": 18343064130.0
+  },
+  {
+    "OrganCode": "BCE",
+    "YearReport": 2022,
+    "LengthReport": 1,
+    "PublicDate": "2022-04-21",
+    "Revenue": 5392535322.0,
+    "NetIncome": 571524798.0
+  },
+  {
+    "OrganCode": "BCE",
+    "YearReport": 2022,
+    "LengthReport": 2,
+    "PublicDate": "2022-08-30",
+    "Revenue": 1813111660.0,
+    "NetIncome": -16895863236.0
+  },
+  {
+    "OrganCode": "BCE",
+    "YearReport": 2022,
+    "LengthReport": 3,
+    "PublicDate": "2022-10-26",
+    "Revenue": -30135412157.0,
+    "NetIncome": 305405026.0
+  },
+  {
+    "OrganCode": "BCE",
+    "YearReport": 2022,
+    "LengthReport": 4,
+    "PublicDate": "2023-01-19",
+    "Revenue": 133482995881.0,
+    "NetIncome": -23218066576.0
+  },
+  {
+    "OrganCode": "BCE",
+    "YearReport": 2023,
+    "LengthReport": 1,
+    "PublicDate": "2023-04-24",
+    "Revenue": 7398663903.0,
+    "NetIncome": -8328435823.0
+  },
+  {
+    "OrganCode": "BCE",
+    "YearReport": 2023,
+    "LengthReport": 2,
+    "PublicDate": "2023-08-29",
+    "Revenue": 28150003003.0,
+    "NetIncome": -2486050642.0
+  },
+  {
+    "OrganCode": "BCE",
+    "YearReport": 2023,
+    "LengthReport": 3,
+    "PublicDate": "2023-10-25",
+    "Revenue": 55887184557.0,
+    "NetIncome": -5727752852.0
+  },
+  {
+    "OrganCode": "BCE",
+    "YearReport": 2023,
+    "LengthReport": 4,
+    "PublicDate": "2024-01-26",
+    "Revenue": 31237881783.0,
+    "NetIncome": 17596848651.0
+  },
+  {
+    "OrganCode": "BCE",
+    "YearReport": 2024,
+    "LengthReport": 1,
+    "PublicDate": "2024-04-24",
+    "Revenue": 10588494898.0,
+    "NetIncome": -4712977951.0
+  },
+  {
+    "OrganCode": "BCE",
+    "YearReport": 2024,
+    "LengthReport": 2,
+    "PublicDate": "2024-08-30",
+    "Revenue": 16562950556.0,
+    "NetIncome": -11814035796.0
+  },
+  {
+    "OrganCode": "BCE",
+    "YearReport": 2024,
+    "LengthReport": 3,
+    "PublicDate": "2024-10-29",
+    "Revenue": 10350287177.0,
+    "NetIncome": -9666591352.0
+  },
+  {
+    "OrganCode": "BCE",
+    "YearReport": 2024,
+    "LengthReport": 4,
+    "PublicDate": "2025-03-31",
+    "Revenue": 254464002316.0,
+    "NetIncome": 100580947209.0
+  },
+  {
+    "OrganCode": "BCE",
+    "YearReport": 2025,
+    "LengthReport": 1,
+    "PublicDate": "2025-05-28",
+    "Revenue": 9379556294.0,
+    "NetIncome": -5099003781.0
+  },
+  {
+    "OrganCode": "BCG",
+    "YearReport": 2022,
+    "LengthReport": 1,
+    "PublicDate": "2022-04-28",
+    "Revenue": 1252855584646.0,
+    "NetIncome": 522300477437.0
+  },
+  {
+    "OrganCode": "BCG",
+    "YearReport": 2022,
+    "LengthReport": 2,
+    "PublicDate": "2022-08-29",
+    "Revenue": 881000705826.0,
+    "NetIncome": 323518612565.0
+  },
+  {
+    "OrganCode": "BCG",
+    "YearReport": 2022,
+    "LengthReport": 3,
+    "PublicDate": "2022-10-31",
+    "Revenue": 1176723911417.0,
+    "NetIncome": 39499235717.0
+  },
+  {
+    "OrganCode": "BCG",
+    "YearReport": 2022,
+    "LengthReport": 4,
+    "PublicDate": "2023-01-19",
+    "Revenue": 1221063337020.0,
+    "NetIncome": -338861211054.0
+  },
+  {
+    "OrganCode": "BCG",
+    "YearReport": 2023,
+    "LengthReport": 1,
+    "PublicDate": "2023-04-28",
+    "Revenue": 701267960095.0,
+    "NetIncome": 8799859677.0
+  },
+  {
+    "OrganCode": "BCG",
+    "YearReport": 2023,
+    "LengthReport": 2,
+    "PublicDate": "2023-09-07",
+    "Revenue": 1114267458725.0,
+    "NetIncome": 166877008372.0
+  },
+  {
+    "OrganCode": "BCG",
+    "YearReport": 2023,
+    "LengthReport": 3,
+    "PublicDate": "2023-10-30",
+    "Revenue": 1017930627764.0,
+    "NetIncome": 9144767633.0
+  },
+  {
+    "OrganCode": "BCG",
+    "YearReport": 2023,
+    "LengthReport": 4,
+    "PublicDate": "2024-01-30",
+    "Revenue": 1178146652573.0,
+    "NetIncome": 3363564902.0
+  },
+  {
+    "OrganCode": "BCG",
+    "YearReport": 2024,
+    "LengthReport": 1,
+    "PublicDate": "2024-04-17",
+    "Revenue": 985437239704.0,
+    "NetIncome": 98181285924.0
+  },
+  {
+    "OrganCode": "BCG",
+    "YearReport": 2024,
+    "LengthReport": 2,
+    "PublicDate": "2024-09-04",
+    "Revenue": 1114820056534.0,
+    "NetIncome": 318935719726.0
+  },
+  {
+    "OrganCode": "BCG",
+    "YearReport": 2024,
+    "LengthReport": 3,
+    "PublicDate": "2024-10-30",
+    "Revenue": 1137868443276.0,
+    "NetIncome": 331207589459.0
+  },
+  {
+    "OrganCode": "BCG",
+    "YearReport": 2024,
+    "LengthReport": 4,
+    "PublicDate": "2025-01-24",
+    "Revenue": 1133731815353.0,
+    "NetIncome": 96473365772.0
+  },
+  {
+    "OrganCode": "BDFC",
+    "YearReport": 2022,
+    "LengthReport": 1,
+    "PublicDate": "2022-04-27",
+    "Revenue": 2593970490830.0,
+    "NetIncome": 86307529598.0
+  },
+  {
+    "OrganCode": "BDFC",
+    "YearReport": 2022,
+    "LengthReport": 2,
+    "PublicDate": "2022-09-08",
+    "Revenue": 1804806754258.0,
+    "NetIncome": 74886330958.0
+  },
+  {
+    "OrganCode": "BDFC",
+    "YearReport": 2022,
+    "LengthReport": 3,
+    "PublicDate": "2022-11-01",
+    "Revenue": 2285429989137.0,
+    "NetIncome": 2967758777.0
+  },
+  {
+    "OrganCode": "BDFC",
+    "YearReport": 2022,
+    "LengthReport": 4,
+    "PublicDate": "2023-01-20",
+    "Revenue": 1897150867121.0,
+    "NetIncome": 29301923876.0
+  },
+  {
+    "OrganCode": "BDFC",
+    "YearReport": 2023,
+    "LengthReport": 1,
+    "PublicDate": "2023-05-05",
+    "Revenue": 1342908960897.0,
+    "NetIncome": -39604390383.0
+  },
+  {
+    "OrganCode": "BDFC",
+    "YearReport": 2023,
+    "LengthReport": 2,
+    "PublicDate": "2023-08-20",
+    "Revenue": 2333715784405.0,
+    "NetIncome": 65182258873.0
+  },
+  {
+    "OrganCode": "BDFC",
+    "YearReport": 2023,
+    "LengthReport": 3,
+    "PublicDate": "2023-10-27",
+    "Revenue": 2708910038884.0,
+    "NetIncome": 58687673957.0
+  },
+  {
+    "OrganCode": "BDFC",
+    "YearReport": 2023,
+    "LengthReport": 4,
+    "PublicDate": "2024-01-29",
+    "Revenue": 2202874299843.0,
+    "NetIncome": 50749809055.0
+  },
+  {
+    "OrganCode": "BDFC",
+    "YearReport": 2024,
+    "LengthReport": 1,
+    "PublicDate": "2024-04-27",
+    "Revenue": 1940449006153.0,
+    "NetIncome": 73524643752.0
+  },
+  {
+    "OrganCode": "BDFC",
+    "YearReport": 2024,
+    "LengthReport": 2,
+    "PublicDate": "2024-08-08",
+    "Revenue": 2916008103459.0,
+    "NetIncome": 190329741128.0
+  },
+  {
+    "OrganCode": "BDFC",
+    "YearReport": 2024,
+    "LengthReport": 3,
+    "PublicDate": "2024-10-29",
+    "Revenue": 2030983062685.0,
+    "NetIncome": 64299562019.0
+  },
+  {
+    "OrganCode": "BDFC",
+    "YearReport": 2024,
+    "LengthReport": 4,
+    "PublicDate": "2025-03-11",
+    "Revenue": 2470803574580.0,
+    "NetIncome": 97460524567.0
+  },
+  {
+    "OrganCode": "BDFC",
+    "YearReport": 2025,
+    "LengthReport": 1,
+    "PublicDate": "2025-04-29",
+    "Revenue": 2554263681231.0,
+    "NetIncome": 111134083477.0
+  },
+  {
+    "OrganCode": "BHN",
+    "YearReport": 2022,
+    "LengthReport": 1,
+    "PublicDate": "2022-04-29",
+    "Revenue": 1355417822993.0,
+    "NetIncome": 34567481739.0
+  },
+  {
+    "OrganCode": "BHN",
+    "YearReport": 2022,
+    "LengthReport": 2,
+    "PublicDate": "2022-08-30",
+    "Revenue": 2132529343808.0,
+    "NetIncome": 204103589700.0
+  },
+  {
+    "OrganCode": "BHN",
+    "YearReport": 2022,
+    "LengthReport": 3,
+    "PublicDate": "2022-10-27",
+    "Revenue": 2440225217091.0,
+    "NetIncome": 235854926989.0
+  },
+  {
+    "OrganCode": "BHN",
+    "YearReport": 2022,
+    "LengthReport": 4,
+    "PublicDate": "2023-01-30",
+    "Revenue": 2468492726471.0,
+    "NetIncome": 51672836579.0
+  },
+  {
+    "OrganCode": "BHN",
+    "YearReport": 2023,
+    "LengthReport": 1,
+    "PublicDate": "2023-04-28",
+    "Revenue": 1172659806439.0,
+    "NetIncome": -3727217968.0
+  },
+  {
+    "OrganCode": "BHN",
+    "YearReport": 2023,
+    "LengthReport": 2,
+    "PublicDate": "2023-08-29",
+    "Revenue": 2078349132016.0,
+    "NetIncome": 188450474363.0
+  },
+  {
+    "OrganCode": "BHN",
+    "YearReport": 2023,
+    "LengthReport": 3,
+    "PublicDate": "2023-10-30",
+    "Revenue": 2259871766841.0,
+    "NetIncome": 106745458757.0
+  },
+  {
+    "OrganCode": "BHN",
+    "YearReport": 2023,
+    "LengthReport": 4,
+    "PublicDate": "2024-01-29",
+    "Revenue": 2246129191875.0,
+    "NetIncome": 63999628839.0
+  },
+  {
+    "OrganCode": "BHN",
+    "YearReport": 2024,
+    "LengthReport": 1,
+    "PublicDate": "2024-04-26",
+    "Revenue": 1308100051331.0,
+    "NetIncome": -20986965674.0
+  },
+  {
+    "OrganCode": "BHN",
+    "YearReport": 2024,
+    "LengthReport": 2,
+    "PublicDate": "2024-07-29",
+    "Revenue": 2305566275712.0,
+    "NetIncome": 171885999139.0
+  },
+  {
+    "OrganCode": "BHN",
+    "YearReport": 2024,
+    "LengthReport": 3,
+    "PublicDate": "2024-10-29",
+    "Revenue": 2335256892188.0,
+    "NetIncome": 138445562322.0
+  },
+  {
+    "OrganCode": "BHN",
+    "YearReport": 2024,
+    "LengthReport": 4,
+    "PublicDate": "2025-01-24",
+    "Revenue": 2270697593043.0,
+    "NetIncome": 113343806430.0
+  },
+  {
+    "OrganCode": "BHN",
+    "YearReport": 2025,
+    "LengthReport": 1,
+    "PublicDate": "2025-04-29",
+    "Revenue": 1458025664821.0,
+    "NetIncome": 20669330232.0
+  },
+  {
+    "OrganCode": "BIDC",
+    "YearReport": 2022,
+    "LengthReport": 1,
+    "PublicDate": "2022-04-29",
+    "Revenue": 1433348849424.0,
+    "NetIncome": 391040729790.0
+  },
+  {
+    "OrganCode": "BIDC",
+    "YearReport": 2022,
+    "LengthReport": 2,
+    "PublicDate": "2022-09-06",
+    "Revenue": 1931516502553.0,
+    "NetIncome": 1014883924596.0
+  },
+  {
+    "OrganCode": "BIDC",
+    "YearReport": 2022,
+    "LengthReport": 3,
+    "PublicDate": "2022-10-28",
+    "Revenue": 2263445122713.0,
+    "NetIncome": 259159391945.0
+  },
+  {
+    "OrganCode": "BIDC",
+    "YearReport": 2022,
+    "LengthReport": 4,
+    "PublicDate": "2023-01-31",
+    "Revenue": 878821128819.0,
+    "NetIncome": 6944366900.0
+  },
+  {
+    "OrganCode": "BIDC",
+    "YearReport": 2023,
+    "LengthReport": 1,
+    "PublicDate": "2023-05-04",
+    "Revenue": 791414444150.0,
+    "NetIncome": 74426457419.0
+  },
+  {
+    "OrganCode": "BIDC",
+    "YearReport": 2023,
+    "LengthReport": 2,
+    "PublicDate": "2023-08-29",
+    "Revenue": 1093621442365.0,
+    "NetIncome": -25552777300.0
+  },
+  {
+    "OrganCode": "BIDC",
+    "YearReport": 2023,
+    "LengthReport": 3,
+    "PublicDate": "2023-10-30",
+    "Revenue": 1127345659138.0,
+    "NetIncome": 215630028571.0
+  },
+  {
+    "OrganCode": "BIDC",
+    "YearReport": 2023,
+    "LengthReport": 4,
+    "PublicDate": "2024-01-30",
+    "Revenue": 5059624626896.0,
+    "NetIncome": 2049742789637.0
+  },
+  {
+    "OrganCode": "BIDC",
+    "YearReport": 2024,
+    "LengthReport": 1,
+    "PublicDate": "2024-04-26",
+    "Revenue": 811605444546.0,
+    "NetIncome": 119236772105.0
+  },
+  {
+    "OrganCode": "BIDC",
+    "YearReport": 2024,
+    "LengthReport": 2,
+    "PublicDate": "2024-09-04",
+    "Revenue": 1156018236714.0,
+    "NetIncome": 287112263714.0
+  },
+  {
+    "OrganCode": "BIDC",
+    "YearReport": 2024,
+    "LengthReport": 3,
+    "PublicDate": "2024-10-29",
+    "Revenue": 1227612256297.0,
+    "NetIncome": 363015450642.0
+  },
+  {
+    "OrganCode": "BIDC",
+    "YearReport": 2024,
+    "LengthReport": 4,
+    "PublicDate": "2025-04-03",
+    "Revenue": 2044000623070.0,
+    "NetIncome": 1625682004847.0
+  },
+  {
+    "OrganCode": "BIDC",
+    "YearReport": 2025,
+    "LengthReport": 1,
+    "PublicDate": "2025-04-28",
+    "Revenue": 1842515299282.0,
+    "NetIncome": 365559363656.0
+  },
+  {
+    "OrganCode": "BIWASE",
+    "YearReport": 2022,
+    "LengthReport": 1,
+    "PublicDate": "2022-04-26",
+    "Revenue": 733325577475.0,
+    "NetIncome": 176379845344.0
+  },
+  {
+    "OrganCode": "BIWASE",
+    "YearReport": 2022,
+    "LengthReport": 2,
+    "PublicDate": "2022-08-16",
+    "Revenue": 847031278989.0,
+    "NetIncome": 203066466555.0
+  },
+  {
+    "OrganCode": "BIWASE",
+    "YearReport": 2022,
+    "LengthReport": 3,
+    "PublicDate": "2022-11-01",
+    "Revenue": 860138581810.0,
+    "NetIncome": 196644965466.0
+  },
+  {
+    "OrganCode": "BIWASE",
+    "YearReport": 2022,
+    "LengthReport": 4,
+    "PublicDate": "2023-01-27",
+    "Revenue": 1043251236467.0,
+    "NetIncome": 170349179029.0
+  },
+  {
+    "OrganCode": "BIWASE",
+    "YearReport": 2023,
+    "LengthReport": 1,
+    "PublicDate": "2023-04-26",
+    "Revenue": 680630228466.0,
+    "NetIncome": 140727285763.0
+  },
+  {
+    "OrganCode": "BIWASE",
+    "YearReport": 2023,
+    "LengthReport": 2,
+    "PublicDate": "2023-08-22",
+    "Revenue": 876876543717.0,
+    "NetIncome": 209961256385.0
+  },
+  {
+    "OrganCode": "BIWASE",
+    "YearReport": 2023,
+    "LengthReport": 3,
+    "PublicDate": "2023-10-25",
+    "Revenue": 840492682452.0,
+    "NetIncome": 178092465446.0
+  },
+  {
+    "OrganCode": "BIWASE",
+    "YearReport": 2023,
+    "LengthReport": 4,
+    "PublicDate": "2024-01-29",
+    "Revenue": 1127886327109.0,
+    "NetIncome": 150663328255.0
+  },
+  {
+    "OrganCode": "BIWASE",
+    "YearReport": 2024,
+    "LengthReport": 1,
+    "PublicDate": "2024-04-25",
+    "Revenue": 791698501791.0,
+    "NetIncome": 179720030134.0
+  },
+  {
+    "OrganCode": "BIWASE",
+    "YearReport": 2024,
+    "LengthReport": 2,
+    "PublicDate": "2024-08-23",
+    "Revenue": 1034300694422.0,
+    "NetIncome": 140048801857.0
+  },
+  {
+    "OrganCode": "BIWASE",
+    "YearReport": 2024,
+    "LengthReport": 3,
+    "PublicDate": "2024-10-28",
+    "Revenue": 942459342041.0,
+    "NetIncome": 191366959121.0
+  },
+  {
+    "OrganCode": "BIWASE",
+    "YearReport": 2024,
+    "LengthReport": 4,
+    "PublicDate": "2025-03-04",
+    "Revenue": 1190539284818.0,
+    "NetIncome": 149444830202.0
+  },
+  {
+    "OrganCode": "BIWASE",
+    "YearReport": 2025,
+    "LengthReport": 1,
+    "PublicDate": "2025-04-28",
+    "Revenue": 923926906721.0,
+    "NetIncome": 162786406156.0
+  },
+  {
+    "OrganCode": "BKGVN",
+    "YearReport": 2022,
+    "LengthReport": 1,
+    "PublicDate": "2022-05-03",
+    "Revenue": 77931760300.0,
+    "NetIncome": 4997745645.0
+  },
+  {
+    "OrganCode": "BKGVN",
+    "YearReport": 2022,
+    "LengthReport": 2,
+    "PublicDate": "2022-09-07",
+    "Revenue": 99567307515.0,
+    "NetIncome": 9796836807.0
+  },
+  {
+    "OrganCode": "BKGVN",
+    "YearReport": 2022,
+    "LengthReport": 3,
+    "PublicDate": "2022-10-31",
+    "Revenue": 136075579759.0,
+    "NetIncome": 9986433349.0
+  },
+  {
+    "OrganCode": "BKGVN",
+    "YearReport": 2022,
+    "LengthReport": 4,
+    "PublicDate": "2023-01-13",
+    "Revenue": 71405869094.0,
+    "NetIncome": 1699750885.0
+  },
+  {
+    "OrganCode": "BKGVN",
+    "YearReport": 2023,
+    "LengthReport": 1,
+    "PublicDate": "2023-04-28",
+    "Revenue": 51003269022.0,
+    "NetIncome": 4544539324.0
+  },
+  {
+    "OrganCode": "BKGVN",
+    "YearReport": 2023,
+    "LengthReport": 2,
+    "PublicDate": "2023-08-29",
+    "Revenue": 42717031497.0,
+    "NetIncome": 1663877095.0
+  },
+  {
+    "OrganCode": "BKGVN",
+    "YearReport": 2023,
+    "LengthReport": 3,
+    "PublicDate": "2023-10-30",
+    "Revenue": 45152073749.0,
+    "NetIncome": 2606362292.0
+  },
+  {
+    "OrganCode": "BKGVN",
+    "YearReport": 2023,
+    "LengthReport": 4,
+    "PublicDate": "2024-01-26",
+    "Revenue": 44608338826.0,
+    "NetIncome": 1731913977.0
+  },
+  {
+    "OrganCode": "BKGVN",
+    "YearReport": 2024,
+    "LengthReport": 1,
+    "PublicDate": "2024-04-26",
+    "Revenue": 69734595158.0,
+    "NetIncome": 4115170664.0
+  },
+  {
+    "OrganCode": "BKGVN",
+    "YearReport": 2024,
+    "LengthReport": 2,
+    "PublicDate": "2024-08-19",
+    "Revenue": 88471245041.0,
+    "NetIncome": 4349871518.0
+  },
+  {
+    "OrganCode": "BKGVN",
+    "YearReport": 2024,
+    "LengthReport": 3,
+    "PublicDate": "2024-10-29",
+    "Revenue": 65169105897.0,
+    "NetIncome": 2854672282.0
+  },
+  {
+    "OrganCode": "BKGVN",
+    "YearReport": 2024,
+    "LengthReport": 4,
+    "PublicDate": "2025-04-01",
+    "Revenue": 65351706715.0,
+    "NetIncome": 3549574442.0
+  },
+  {
+    "OrganCode": "BKGVN",
+    "YearReport": 2025,
+    "LengthReport": 1,
+    "PublicDate": "2025-04-22",
+    "Revenue": 44475337897.0,
+    "NetIncome": 2715369335.0
+  },
+  {
+    "OrganCode": "BMC",
+    "YearReport": 2022,
+    "LengthReport": 1,
+    "PublicDate": "2022-04-20",
+    "Revenue": 40128502578.0,
+    "NetIncome": 2736723768.0
+  },
+  {
+    "OrganCode": "BMC",
+    "YearReport": 2022,
+    "LengthReport": 2,
+    "PublicDate": "2022-08-14",
+    "Revenue": 76596819460.0,
+    "NetIncome": 9799797047.0
+  },
+  {
+    "OrganCode": "BMC",
+    "YearReport": 2022,
+    "LengthReport": 3,
+    "PublicDate": "2022-10-18",
+    "Revenue": 19606951921.0,
+    "NetIncome": 3238862222.0
+  },
+  {
+    "OrganCode": "BMC",
+    "YearReport": 2022,
+    "LengthReport": 4,
+    "PublicDate": "2023-01-19",
+    "Revenue": 46743497808.0,
+    "NetIncome": 5563678162.0
+  },
+  {
+    "OrganCode": "BMC",
+    "YearReport": 2023,
+    "LengthReport": 1,
+    "PublicDate": "2023-04-19",
+    "Revenue": 24524823300.0,
+    "NetIncome": 2681689196.0
+  },
+  {
+    "OrganCode": "BMC",
+    "YearReport": 2023,
+    "LengthReport": 2,
+    "PublicDate": "2023-08-10",
+    "Revenue": 44230734372.0,
+    "NetIncome": 6446469395.0
+  },
+  {
+    "OrganCode": "BMC",
+    "YearReport": 2023,
+    "LengthReport": 3,
+    "PublicDate": "2023-10-18",
+    "Revenue": 45380034001.0,
+    "NetIncome": 6025671529.0
+  },
+  {
+    "OrganCode": "BMC",
+    "YearReport": 2023,
+    "LengthReport": 4,
+    "PublicDate": "2024-01-18",
+    "Revenue": 65806222571.0,
+    "NetIncome": 9043306682.0
+  },
+  {
+    "OrganCode": "BMC",
+    "YearReport": 2024,
+    "LengthReport": 1,
+    "PublicDate": "2024-04-16",
+    "Revenue": 40752593359.0,
+    "NetIncome": 4762071361.0
+  },
+  {
+    "OrganCode": "BMC",
+    "YearReport": 2024,
+    "LengthReport": 2,
+    "PublicDate": "2024-08-12",
+    "Revenue": 47604246642.0,
+    "NetIncome": 6748284381.0
+  },
+  {
+    "OrganCode": "BMC",
+    "YearReport": 2024,
+    "LengthReport": 3,
+    "PublicDate": "2024-10-18",
+    "Revenue": 46710990271.0,
+    "NetIncome": 6119439311.0
+  },
+  {
+    "OrganCode": "BMC",
+    "YearReport": 2024,
+    "LengthReport": 4,
+    "PublicDate": "2025-02-20",
+    "Revenue": 60251731910.0,
+    "NetIncome": 7911643781.0
+  },
+  {
+    "OrganCode": "BMC",
+    "YearReport": 2025,
+    "LengthReport": 1,
+    "PublicDate": "2025-04-22",
+    "Revenue": 11630507216.0,
+    "NetIncome": 897347845.0
+  },
+  {
+    "OrganCode": "BMC",
+    "YearReport": 2025,
+    "LengthReport": 2,
+    "PublicDate": "2025-07-19",
+    "Revenue": 38966853575.0,
+    "NetIncome": 3774810543.0
+  },
+  {
+    "OrganCode": "BMP",
+    "YearReport": 2022,
+    "LengthReport": 1,
+    "PublicDate": "2022-04-27",
+    "Revenue": 1349583426396.0,
+    "NetIncome": 127447346279.0
+  },
+  {
+    "OrganCode": "BMP",
+    "YearReport": 2022,
+    "LengthReport": 2,
+    "PublicDate": "2022-08-30",
+    "Revenue": 1555073869082.0,
+    "NetIncome": 145243612706.0
+  },
+  {
+    "OrganCode": "BMP",
+    "YearReport": 2022,
+    "LengthReport": 3,
+    "PublicDate": "2022-10-25",
+    "Revenue": 1495807266558.0,
+    "NetIncome": 175137395329.0
+  },
+  {
+    "OrganCode": "BMP",
+    "YearReport": 2022,
+    "LengthReport": 4,
+    "PublicDate": "2023-01-16",
+    "Revenue": 1407879813224.0,
+    "NetIncome": 248432342507.0
+  },
+  {
+    "OrganCode": "BMP",
+    "YearReport": 2023,
+    "LengthReport": 1,
+    "PublicDate": "2023-04-19",
+    "Revenue": 1439919960314.0,
+    "NetIncome": 280745268354.0
+  },
+  {
+    "OrganCode": "BMP",
+    "YearReport": 2023,
+    "LengthReport": 2,
+    "PublicDate": "2023-08-29",
+    "Revenue": 1336479101480.0,
+    "NetIncome": 294608401481.0
+  },
+  {
+    "OrganCode": "BMP",
+    "YearReport": 2023,
+    "LengthReport": 3,
+    "PublicDate": "2023-10-19",
+    "Revenue": 926117656716.0,
+    "NetIncome": 208790145826.0
+  },
+  {
+    "OrganCode": "BMP",
+    "YearReport": 2023,
+    "LengthReport": 4,
+    "PublicDate": "2024-01-25",
+    "Revenue": 1454467651706.0,
+    "NetIncome": 256862517621.0
+  },
+  {
+    "OrganCode": "BMP",
+    "YearReport": 2024,
+    "LengthReport": 1,
+    "PublicDate": "2024-04-25",
+    "Revenue": 1002851021600.0,
+    "NetIncome": 189875059628.0
+  },
+  {
+    "OrganCode": "BMP",
+    "YearReport": 2024,
+    "LengthReport": 2,
+    "PublicDate": "2024-08-28",
+    "Revenue": 1153199582323.0,
+    "NetIncome": 280300515276.0
+  },
+  {
+    "OrganCode": "BMP",
+    "YearReport": 2024,
+    "LengthReport": 3,
+    "PublicDate": "2024-10-17",
+    "Revenue": 1406831392235.0,
+    "NetIncome": 289630912189.0
+  },
+  {
+    "OrganCode": "BMP",
+    "YearReport": 2024,
+    "LengthReport": 4,
+    "PublicDate": "2025-03-26",
+    "Revenue": 1052796659388.0,
+    "NetIncome": 230955242045.0
+  },
+  {
+    "OrganCode": "BMP",
+    "YearReport": 2025,
+    "LengthReport": 1,
+    "PublicDate": "2025-04-22",
+    "Revenue": 1383100181955.0,
+    "NetIncome": 286910617568.0
+  },
+  {
+    "OrganCode": "BMP",
+    "YearReport": 2025,
+    "LengthReport": 2,
+    "PublicDate": "2025-07-22",
+    "Revenue": 1308129555745.0,
+    "NetIncome": 329900327324.0
+  },
+  {
+    "OrganCode": "BRC",
+    "YearReport": 2022,
+    "LengthReport": 1,
+    "PublicDate": "2022-04-15",
+    "Revenue": 75703824503.0,
+    "NetIncome": 4530170809.0
+  },
+  {
+    "OrganCode": "BRC",
+    "YearReport": 2022,
+    "LengthReport": 2,
+    "PublicDate": "2022-09-20",
+    "Revenue": 82175281401.0,
+    "NetIncome": 3312179700.0
+  },
+  {
+    "OrganCode": "BRC",
+    "YearReport": 2022,
+    "LengthReport": 3,
+    "PublicDate": "2022-10-14",
+    "Revenue": 90417262281.0,
+    "NetIncome": 7946049825.0
+  },
+  {
+    "OrganCode": "BRC",
+    "YearReport": 2022,
+    "LengthReport": 4,
+    "PublicDate": "2023-01-17",
+    "Revenue": 89761523689.0,
+    "NetIncome": 2917413535.0
+  },
+  {
+    "OrganCode": "BRC",
+    "YearReport": 2023,
+    "LengthReport": 1,
+    "PublicDate": "2023-04-10",
+    "Revenue": 68206011267.0,
+    "NetIncome": 4264368101.0
+  },
+  {
+    "OrganCode": "BRC",
+    "YearReport": 2023,
+    "LengthReport": 2,
+    "PublicDate": "2023-08-18",
+    "Revenue": 78752577691.0,
+    "NetIncome": 3181405918.0
+  },
+  {
+    "OrganCode": "BRC",
+    "YearReport": 2023,
+    "LengthReport": 3,
+    "PublicDate": "2023-10-12",
+    "Revenue": 97819406174.0,
+    "NetIncome": 6691218417.0
+  },
+  {
+    "OrganCode": "BRC",
+    "YearReport": 2023,
+    "LengthReport": 4,
+    "PublicDate": "2024-01-15",
+    "Revenue": 87465208300.0,
+    "NetIncome": 5248390770.0
+  },
+  {
+    "OrganCode": "BRC",
+    "YearReport": 2024,
+    "LengthReport": 1,
+    "PublicDate": "2024-04-15",
+    "Revenue": 73547629597.0,
+    "NetIncome": 4364945131.0
+  },
+  {
+    "OrganCode": "BRC",
+    "YearReport": 2024,
+    "LengthReport": 2,
+    "PublicDate": "2024-08-13",
+    "Revenue": 103489553943.0,
+    "NetIncome": 5571877885.0
+  },
+  {
+    "OrganCode": "BRC",
+    "YearReport": 2024,
+    "LengthReport": 3,
+    "PublicDate": "2024-10-15",
+    "Revenue": 123717111297.0,
+    "NetIncome": 7749076520.0
+  },
+  {
+    "OrganCode": "BRC",
+    "YearReport": 2024,
+    "LengthReport": 4,
+    "PublicDate": "2025-03-06",
+    "Revenue": 118299997313.0,
+    "NetIncome": 4065343959.0
+  },
+  {
+    "OrganCode": "BRC",
+    "YearReport": 2025,
+    "LengthReport": 1,
+    "PublicDate": "2025-04-16",
+    "Revenue": 97939222338.0,
+    "NetIncome": 4204050002.0
+  },
+  {
+    "OrganCode": "BRC",
+    "YearReport": 2025,
+    "LengthReport": 2,
+    "PublicDate": "2025-07-17",
+    "Revenue": 115719798328.0,
+    "NetIncome": 5982425483.0
+  },
+  {
+    "OrganCode": "BSRC",
+    "YearReport": 2022,
+    "LengthReport": 1,
+    "PublicDate": "2022-04-25",
+    "Revenue": 34783091199100.0,
+    "NetIncome": 2312231722439.0
+  },
+  {
+    "OrganCode": "BSRC",
+    "YearReport": 2022,
+    "LengthReport": 2,
+    "PublicDate": "2022-08-19",
+    "Revenue": 52391131816173.0,
+    "NetIncome": 10132185974710.0
+  },
+  {
+    "OrganCode": "BSRC",
+    "YearReport": 2022,
+    "LengthReport": 3,
+    "PublicDate": "2022-10-26",
+    "Revenue": 39567059569428.0,
+    "NetIncome": 454937340568.0
+  },
+  {
+    "OrganCode": "BSRC",
+    "YearReport": 2022,
+    "LengthReport": 4,
+    "PublicDate": "2023-01-19",
+    "Revenue": 40429748620195.0,
+    "NetIncome": 1494567134762.0
+  },
+  {
+    "OrganCode": "BSRC",
+    "YearReport": 2023,
+    "LengthReport": 1,
+    "PublicDate": "2023-05-04",
+    "Revenue": 34065891416777.0,
+    "NetIncome": 1620939131507.0
+  },
+  {
+    "OrganCode": "BSRC",
+    "YearReport": 2023,
+    "LengthReport": 2,
+    "PublicDate": "2023-08-24",
+    "Revenue": 33669033433011.0,
+    "NetIncome": 1328102940773.0
+  },
+  {
+    "OrganCode": "BSRC",
+    "YearReport": 2023,
+    "LengthReport": 3,
+    "PublicDate": "2023-10-27",
+    "Revenue": 37755693648206.0,
+    "NetIncome": 3235304304170.0
+  },
+  {
+    "OrganCode": "BSRC",
+    "YearReport": 2023,
+    "LengthReport": 4,
+    "PublicDate": "2024-01-30",
+    "Revenue": 41932747445582.0,
+    "NetIncome": 2268867776261.0
+  },
+  {
+    "OrganCode": "BSRC",
+    "YearReport": 2024,
+    "LengthReport": 1,
+    "PublicDate": "2024-04-29",
+    "Revenue": 30689342319179.0,
+    "NetIncome": 1115449983227.0
+  },
+  {
+    "OrganCode": "BSRC",
+    "YearReport": 2024,
+    "LengthReport": 2,
+    "PublicDate": "2024-08-16",
+    "Revenue": 24423588755537.0,
+    "NetIncome": 768505886132.0
+  },
+  {
+    "OrganCode": "BSRC",
+    "YearReport": 2024,
+    "LengthReport": 3,
+    "PublicDate": "2024-10-30",
+    "Revenue": 31945856725324.0,
+    "NetIncome": -1209491222470.0
+  },
+  {
+    "OrganCode": "BSRC",
+    "YearReport": 2024,
+    "LengthReport": 4,
+    "PublicDate": "2025-03-21",
+    "Revenue": 35968276079519.0,
+    "NetIncome": -83373059434.0
+  },
+  {
+    "OrganCode": "BSRC",
+    "YearReport": 2025,
+    "LengthReport": 1,
+    "PublicDate": "2025-05-05",
+    "Revenue": 31894592097760.0,
+    "NetIncome": 399450059245.0
+  },
+  {
+    "OrganCode": "BTP",
+    "YearReport": 2022,
+    "LengthReport": 1,
+    "PublicDate": "2022-04-20",
+    "Revenue": 99587594.0,
+    "NetIncome": -12020335323.0
+  },
+  {
+    "OrganCode": "BTP",
+    "YearReport": 2022,
+    "LengthReport": 2,
+    "PublicDate": "2022-10-07",
+    "Revenue": 201751358260.0,
+    "NetIncome": 17877109680.0
+  },
+  {
+    "OrganCode": "BTP",
+    "YearReport": 2022,
+    "LengthReport": 3,
+    "PublicDate": "2022-10-24",
+    "Revenue": 166628877430.0,
+    "NetIncome": 86559384773.0
+  },
+  {
+    "OrganCode": "BTP",
+    "YearReport": 2022,
+    "LengthReport": 4,
+    "PublicDate": "2023-01-18",
+    "Revenue": 145014800269.0,
+    "NetIncome": -11215743260.0
+  },
+  {
+    "OrganCode": "BTP",
+    "YearReport": 2023,
+    "LengthReport": 1,
+    "PublicDate": "2023-04-17",
+    "Revenue": 46222632215.0,
+    "NetIncome": 14560238736.0
+  },
+  {
+    "OrganCode": "BTP",
+    "YearReport": 2023,
+    "LengthReport": 2,
+    "PublicDate": "2023-08-15",
+    "Revenue": 641474624723.0,
+    "NetIncome": 27698702755.0
+  },
+  {
+    "OrganCode": "BTP",
+    "YearReport": 2023,
+    "LengthReport": 3,
+    "PublicDate": "2023-10-20",
+    "Revenue": 44466286668.0,
+    "NetIncome": 11843150161.0
+  },
+  {
+    "OrganCode": "BTP",
+    "YearReport": 2023,
+    "LengthReport": 4,
+    "PublicDate": "2024-01-18",
+    "Revenue": 55291056149.0,
+    "NetIncome": 18365805540.0
+  },
+  {
+    "OrganCode": "BTP",
+    "YearReport": 2024,
+    "LengthReport": 1,
+    "PublicDate": "2024-04-16",
+    "Revenue": 49337909707.0,
+    "NetIncome": 9463660377.0
+  },
+  {
+    "OrganCode": "BTP",
+    "YearReport": 2024,
+    "LengthReport": 2,
+    "PublicDate": "2024-08-14",
+    "Revenue": 154550543175.0,
+    "NetIncome": 5405064031.0
+  },
+  {
+    "OrganCode": "BTP",
+    "YearReport": 2024,
+    "LengthReport": 3,
+    "PublicDate": "2024-10-19",
+    "Revenue": 74754248596.0,
+    "NetIncome": -830729680.0
+  },
+  {
+    "OrganCode": "BTP",
+    "YearReport": 2024,
+    "LengthReport": 4,
+    "PublicDate": "2025-03-27",
+    "Revenue": 78764061844.0,
+    "NetIncome": 30843474136.0
+  },
+  {
+    "OrganCode": "BTP",
+    "YearReport": 2025,
+    "LengthReport": 1,
+    "PublicDate": "2025-04-19",
+    "Revenue": 56942027607.0,
+    "NetIncome": 10766325541.0
+  },
+  {
+    "OrganCode": "BTP",
+    "YearReport": 2025,
+    "LengthReport": 2,
+    "PublicDate": "2025-07-17",
+    "Revenue": 66412488368.0,
+    "NetIncome": -106159708.0
+  },
+  {
+    "OrganCode": "BTT",
+    "YearReport": 2022,
+    "LengthReport": 1,
+    "PublicDate": "2022-04-28",
+    "Revenue": 26763448357.0,
+    "NetIncome": 2032645653.0
+  },
+  {
+    "OrganCode": "BTT",
+    "YearReport": 2022,
+    "LengthReport": 2,
+    "PublicDate": "2022-08-27",
+    "Revenue": 37774781287.0,
+    "NetIncome": 5250211007.0
+  },
+  {
+    "OrganCode": "BTT",
+    "YearReport": 2022,
+    "LengthReport": 3,
+    "PublicDate": "2022-10-29",
+    "Revenue": 45141982505.0,
+    "NetIncome": 9324661323.0
+  },
+  {
+    "OrganCode": "BTT",
+    "YearReport": 2022,
+    "LengthReport": 4,
+    "PublicDate": "2023-01-30",
+    "Revenue": 53080940316.0,
+    "NetIncome": 7295657713.0
+  },
+  {
+    "OrganCode": "BTT",
+    "YearReport": 2023,
+    "LengthReport": 1,
+    "PublicDate": "2023-04-29",
+    "Revenue": 55923702417.0,
+    "NetIncome": 12505298020.0
+  },
+  {
+    "OrganCode": "BTT",
+    "YearReport": 2023,
+    "LengthReport": 2,
+    "PublicDate": "2023-08-30",
+    "Revenue": 54412597212.0,
+    "NetIncome": 16635250722.0
+  },
+  {
+    "OrganCode": "BTT",
+    "YearReport": 2023,
+    "LengthReport": 3,
+    "PublicDate": "2023-10-28",
+    "Revenue": 54973757051.0,
+    "NetIncome": 11602374645.0
+  },
+  {
+    "OrganCode": "BTT",
+    "YearReport": 2023,
+    "LengthReport": 4,
+    "PublicDate": "2024-01-30",
+    "Revenue": 67123382425.0,
+    "NetIncome": 8525958850.0
+  },
+  {
+    "OrganCode": "BTT",
+    "YearReport": 2024,
+    "LengthReport": 1,
+    "PublicDate": "2024-04-26",
+    "Revenue": 66140765965.0,
+    "NetIncome": 12724039962.0
+  },
+  {
+    "OrganCode": "BTT",
+    "YearReport": 2024,
+    "LengthReport": 2,
+    "PublicDate": "2024-08-29",
+    "Revenue": 69915470607.0,
+    "NetIncome": 11827630748.0
+  },
+  {
+    "OrganCode": "BTT",
+    "YearReport": 2024,
+    "LengthReport": 3,
+    "PublicDate": "2024-10-30",
+    "Revenue": 59982950252.0,
+    "NetIncome": 11994777798.0
+  },
+  {
+    "OrganCode": "BTT",
+    "YearReport": 2024,
+    "LengthReport": 4,
+    "PublicDate": "2025-03-20",
+    "Revenue": 80478532804.0,
+    "NetIncome": 10432302905.0
+  },
+  {
+    "OrganCode": "BTT",
+    "YearReport": 2025,
+    "LengthReport": 1,
+    "PublicDate": "2025-05-05",
+    "Revenue": 79222494630.0,
+    "NetIncome": 14527333919.0
+  },
+  {
+    "OrganCode": "CLEVERADS",
+    "YearReport": 2022,
+    "LengthReport": 1,
+    "PublicDate": "2022-05-04",
+    "Revenue": 117827295665.0,
+    "NetIncome": 2222548432.0
+  },
+  {
+    "OrganCode": "CLEVERADS",
+    "YearReport": 2022,
+    "LengthReport": 2,
+    "PublicDate": "2022-08-18",
+    "Revenue": 128816821949.0,
+    "NetIncome": 23161118248.0
+  },
+  {
+    "OrganCode": "CLEVERADS",
+    "YearReport": 2022,
+    "LengthReport": 3,
+    "PublicDate": "2022-10-31",
+    "Revenue": 126423874065.0,
+    "NetIncome": 3826429646.0
+  },
+  {
+    "OrganCode": "CLEVERADS",
+    "YearReport": 2022,
+    "LengthReport": 4,
+    "PublicDate": "2023-02-07",
+    "Revenue": 164128089781.0,
+    "NetIncome": 26103098052.0
+  },
+  {
+    "OrganCode": "CLEVERADS",
+    "YearReport": 2023,
+    "LengthReport": 1,
+    "PublicDate": "2023-05-09",
+    "Revenue": 82229579820.0,
+    "NetIncome": -1615948865.0
+  },
+  {
+    "OrganCode": "CLEVERADS",
+    "YearReport": 2023,
+    "LengthReport": 2,
+    "PublicDate": "2023-08-31",
+    "Revenue": 98691826849.0,
+    "NetIncome": 7633793319.0
+  },
+  {
+    "OrganCode": "CLEVERADS",
+    "YearReport": 2023,
+    "LengthReport": 3,
+    "PublicDate": "2023-10-27",
+    "Revenue": 86822222223.0,
+    "NetIncome": -6357931964.0
+  },
+  {
+    "OrganCode": "CLEVERADS",
+    "YearReport": 2023,
+    "LengthReport": 4,
+    "PublicDate": "2024-01-30",
+    "Revenue": 143909949983.0,
+    "NetIncome": 24065042405.0
+  },
+  {
+    "OrganCode": "CLEVERADS",
+    "YearReport": 2024,
+    "LengthReport": 1,
+    "PublicDate": "2024-04-27",
+    "Revenue": 84079773542.0,
+    "NetIncome": -1931711492.0
+  },
+  {
+    "OrganCode": "CLEVERADS",
+    "YearReport": 2024,
+    "LengthReport": 2,
+    "PublicDate": "2024-10-01",
+    "Revenue": 118397334255.0,
+    "NetIncome": 10663923840.0
+  },
+  {
+    "OrganCode": "CLEVERADS",
+    "YearReport": 2024,
+    "LengthReport": 3,
+    "PublicDate": "2024-11-01",
+    "Revenue": 108353091804.0,
+    "NetIncome": -3372041504.0
+  },
+  {
+    "OrganCode": "CLEVERADS",
+    "YearReport": 2024,
+    "LengthReport": 4,
+    "PublicDate": "2025-04-01",
+    "Revenue": 153355832775.0,
+    "NetIncome": 15670197240.0
+  },
+  {
+    "OrganCode": "CLEVERADS",
+    "YearReport": 2025,
+    "LengthReport": 1,
+    "PublicDate": "2025-04-28",
+    "Revenue": 84023894096.0,
+    "NetIncome": -4265000550.0
+  },
+  {
+    "OrganCode": "DAMSAN",
+    "YearReport": 2022,
+    "LengthReport": 1,
+    "PublicDate": "2022-04-27",
+    "Revenue": 444710390950.0,
+    "NetIncome": 28528753613.0
+  },
+  {
+    "OrganCode": "DAMSAN",
+    "YearReport": 2022,
+    "LengthReport": 2,
+    "PublicDate": "2022-08-22",
+    "Revenue": 405221612496.0,
+    "NetIncome": 24703456229.0
+  },
+  {
+    "OrganCode": "DAMSAN",
+    "YearReport": 2022,
+    "LengthReport": 3,
+    "PublicDate": "2022-10-27",
+    "Revenue": 478473120961.0,
+    "NetIncome": 20520849031.0
+  },
+  {
+    "OrganCode": "DAMSAN",
+    "YearReport": 2022,
+    "LengthReport": 4,
+    "PublicDate": "2023-01-19",
+    "Revenue": 364849700944.0,
+    "NetIncome": 4306290420.0
+  },
+  {
+    "OrganCode": "DAMSAN",
+    "YearReport": 2023,
+    "LengthReport": 1,
+    "PublicDate": "2023-04-26",
+    "Revenue": 294694137803.0,
+    "NetIncome": 13148690425.0
+  },
+  {
+    "OrganCode": "DAMSAN",
+    "YearReport": 2023,
+    "LengthReport": 2,
+    "PublicDate": "2023-09-11",
+    "Revenue": 493976474718.0,
+    "NetIncome": 25246332108.0
+  },
+  {
+    "OrganCode": "DAMSAN",
+    "YearReport": 2023,
+    "LengthReport": 3,
+    "PublicDate": "2023-10-24",
+    "Revenue": 453458493882.0,
+    "NetIncome": 30592809910.0
+  },
+  {
+    "OrganCode": "DAMSAN",
+    "YearReport": 2023,
+    "LengthReport": 4,
+    "PublicDate": "2024-01-26",
+    "Revenue": 370680199970.0,
+    "NetIncome": 8390053849.0
+  },
+  {
+    "OrganCode": "DAMSAN",
+    "YearReport": 2024,
+    "LengthReport": 1,
+    "PublicDate": "2024-04-25",
+    "Revenue": 389818986236.0,
+    "NetIncome": 8318605312.0
+  },
+  {
+    "OrganCode": "DAMSAN",
+    "YearReport": 2024,
+    "LengthReport": 2,
+    "PublicDate": "2024-08-30",
+    "Revenue": 391134872475.0,
+    "NetIncome": 6873300760.0
+  },
+  {
+    "OrganCode": "DAMSAN",
+    "YearReport": 2024,
+    "LengthReport": 3,
+    "PublicDate": "2024-10-29",
+    "Revenue": 365744169139.0,
+    "NetIncome": 8345810215.0
+  },
+  {
+    "OrganCode": "DAMSAN",
+    "YearReport": 2024,
+    "LengthReport": 4,
+    "PublicDate": "2025-03-31",
+    "Revenue": 481935542946.0,
+    "NetIncome": 31872667311.0
+  },
+  {
+    "OrganCode": "DAMSAN",
+    "YearReport": 2025,
+    "LengthReport": 1,
+    "PublicDate": "2025-04-26",
+    "Revenue": 356587407631.0,
+    "NetIncome": 14035205110.0
+  },
+  {
+    "OrganCode": "TASECOAIRS",
+    "YearReport": 2022,
+    "LengthReport": 1,
+    "PublicDate": "2022-05-01",
+    "Revenue": 67668554137.0,
+    "NetIncome": -23691559320.0
+  },
+  {
+    "OrganCode": "TASECOAIRS",
+    "YearReport": 2022,
+    "LengthReport": 2,
+    "PublicDate": "2022-08-31",
+    "Revenue": 134589057186.0,
+    "NetIncome": 16598878422.0
+  },
+  {
+    "OrganCode": "TASECOAIRS",
+    "YearReport": 2022,
+    "LengthReport": 3,
+    "PublicDate": "2022-10-28",
+    "Revenue": 185098347217.0,
+    "NetIncome": 15551117886.0
+  },
+  {
+    "OrganCode": "TASECOAIRS",
+    "YearReport": 2022,
+    "LengthReport": 4,
+    "PublicDate": "2023-01-30",
+    "Revenue": 216233772684.0,
+    "NetIncome": 25343332094.0
+  },
+  {
+    "OrganCode": "TASECOAIRS",
+    "YearReport": 2023,
+    "LengthReport": 1,
+    "PublicDate": "2023-04-26",
+    "Revenue": 263111063990.0,
+    "NetIncome": 34329705859.0
+  },
+  {
+    "OrganCode": "TASECOAIRS",
+    "YearReport": 2023,
+    "LengthReport": 2,
+    "PublicDate": "2023-08-28",
+    "Revenue": 262146105170.0,
+    "NetIncome": 38946664626.0
+  },
+  {
+    "OrganCode": "TASECOAIRS",
+    "YearReport": 2023,
+    "LengthReport": 3,
+    "PublicDate": "2023-10-30",
+    "Revenue": 285191938733.0,
+    "NetIncome": 37299698468.0
+  },
+  {
+    "OrganCode": "TASECOAIRS",
+    "YearReport": 2023,
+    "LengthReport": 4,
+    "PublicDate": "2024-01-30",
+    "Revenue": 289243388535.0,
+    "NetIncome": 40021450411.0
+  },
+  {
+    "OrganCode": "TASECOAIRS",
+    "YearReport": 2024,
+    "LengthReport": 1,
+    "PublicDate": "2024-04-26",
+    "Revenue": 339525473495.0,
+    "NetIncome": 50097708310.0
+  },
+  {
+    "OrganCode": "TASECOAIRS",
+    "YearReport": 2024,
+    "LengthReport": 2,
+    "PublicDate": "2024-08-30",
+    "Revenue": 309802933086.0,
+    "NetIncome": 42996744307.0
+  },
+  {
+    "OrganCode": "TASECOAIRS",
+    "YearReport": 2024,
+    "LengthReport": 3,
+    "PublicDate": "2024-10-30",
+    "Revenue": 329211695662.0,
+    "NetIncome": 49641550804.0
+  },
+  {
+    "OrganCode": "TASECOAIRS",
+    "YearReport": 2024,
+    "LengthReport": 4,
+    "PublicDate": "2025-03-31",
+    "Revenue": 351502149109.0,
+    "NetIncome": 59642833991.0
+  },
+  {
+    "OrganCode": "TASECOAIRS",
+    "YearReport": 2025,
+    "LengthReport": 1,
+    "PublicDate": "2025-04-29",
+    "Revenue": 384845799703.0,
+    "NetIncome": 73772537016.0
+  }
+]
